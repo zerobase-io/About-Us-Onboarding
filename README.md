@@ -50,6 +50,6 @@ data.
 Ready to jump in? [Here's where you can start!](./CONTRIBUTING.md)
 
 #### Relevant Links
-Zerobase GitHub Organization: https://github.com/zerobase-io
-Zerobase Slack: https://necsi-edu.slack.com/archives/CV57RBU8H
-Volunteer Sign Up Sheet: https://docs.google.com/spreadsheets/d/1zCCdLi4jRecI9HlJYk3SqoQ-Md62TB2ub3Hgwgq6LYU/edit#gid=0
+* Zerobase GitHub Organization: https://github.com/zerobase-io
+* Zerobase Slack: https://necsi-edu.slack.com/archives/CV57RBU8H
+* Volunteer Sign Up Sheet: https://docs.google.com/spreadsheets/d/1zCCdLi4jRecI9HlJYk3SqoQ-Md62TB2ub3Hgwgq6LYU/edit#gid=0
