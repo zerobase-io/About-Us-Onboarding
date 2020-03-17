@@ -34,8 +34,9 @@ do so, please reach out to Aron for further instructions (and thank you!).
 ## Who Do We Need?
 Whether it's technical expertise, organization, leadership or just your time, any and all things you can contribute will tangibly benefit
 Zerobase. While developers are likely to be the largest category of contributors in terms of numbers, we need folks of all disciplines and
-walks of life to make this happen. We are in *particular* need of your help if you fall into any of the following categories:
-// Where do we send people who want to help but don't fall into one of these buckets?
+walks of life to make this happen. We are in *particular* need of your help if you fall into the categories listed below but this list 
+is not exhaustive; we need all kinds of people forall kinds of tasks.
+If you can't find a niche that feels right, please reach out on [Slack](https://necsi-edu.slack.com/archives/CV57RBU8H). 
 
 ### Software Industry Professionals, Students and Hobbyists
 #### Professionals
@@ -64,6 +65,6 @@ You don't need to be an expert in anything to become a part of our cause to end 
 // Deferring to someone else for the rest of this.
 
 ## Get Connected
-// Slack
-// Github Org
+* [Zerobase Slack](https://necsi-edu.slack.com/archives/CV57RBU8H)
+* [Zerobase GitHub Organization](https://github.com/zerobase-io)
 // Contact details for recruitment/onboarding?
