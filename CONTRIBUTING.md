@@ -16,7 +16,8 @@ You know how every job you've applied to tells you that you'll make an immediate
 ## Let's Go Already! (Start Here)
 We're so glad to have you! Here's where you should start:
 1. Join our [Slack channel](https://necsi-edu.slack.com/archives/CV57RBU8H) and introduce yourself
-2. Check out [Who Do We Need?](#who-do-we-need) to find your niche, or put a message in Slack with how you want to contribute
+2. Check out [Who Do We Need?](#who-do-we-need) to find your niche, or put a message in 
+[Slack](https://necsi-edu.slack.com/archives/CV57RBU8H) with how you want to contribute
 3. Add yourself to our 
 [Contacts spreadsheet](https://docs.google.com/spreadsheets/d/1zCCdLi4jRecI9HlJYk3SqoQ-Md62TB2ub3Hgwgq6LYU/edit#gid=0) 
 so we can stay in touch
