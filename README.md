@@ -9,11 +9,15 @@ All things relating to our organization, the Zerobase project and how you can ge
 * [How Can I Contribute to Zerobase?](#how-can-i-contribute-to-zerobase)
     * [Relevant Links](#relevant-links)
 
-
-
 ## What is Zerobase?
-// Quick high-level explanation of the mission of the organization, and what we offer that's unique (like privacy)
-// Link off to one-pager: [text that will show to user](./Zerobase-Basic.pdf)
+At its core Zerobase is a location tracker for community hot spots. Businesses, organizations, locations use a designated smartphone to enroll, print out a QR code and request that every individual entering the premise scan the code. We work with public health agencies to then backtrace potential exposure events in the case that an individual tests positive and notify all affected locations and individuals with next steps.
+
+We offer unparalleled privacy for users by utilizing innovative and powerful cryptography, so you can trust that this extremely serious
+data relating to an individual's CoV-SARS-2 exposures is infeasible to tamper with and kept highly anonymized. Additionally, we're 100% 
+open-source, so anyone can come and audit our code for security and/or privacy concerns. 
+
+If you're looking for a further explanation of who we are and what we're doing, check out our [one-page mission statement and
+organizational summary](./Zerobase-Basic.pdf).
 
 ## How Do I Use Zerobase?
 // Brief overview of basic user flows
