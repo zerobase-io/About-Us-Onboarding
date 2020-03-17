@@ -5,7 +5,7 @@ Looking to get in touch, or to know who's in charge of what? We've got you cover
     * **\[LEAD\]** Jason Spriggs
     * Robert Graham
 * **Backend and Persistence/Databases:**
-    * **\[LEAD\]** David
+    * **\[LEAD\]** David Harris
     * George Mauer
     * Michael Buchel
     * Brian Stearns
@@ -18,10 +18,10 @@ Looking to get in touch, or to know who's in charge of what? We've got you cover
     * **Biomedical:**
         * Jessica Brim
     * **Technical and Frontend:**
-        * **\[LEAD\]** Justin
+        * **\[LEAD\]** Justin Chick
         * Matthew Huang
-        * Nate 
-        * Nate (not a duplicate!)
+        * Nate Hearnsberger
+        * Nate K
         * Jannik Lehmann
         * Gaurav Mathur
 * **Outreach:**
