@@ -67,10 +67,12 @@ Here's where you can get started:
 
 // No idea what to put here, I know we need these people though
 
-### Outreach and Activism
-You don't need to be an expert in anything to become a part of our cause to end CoV-SARS-2, your voice alone is a powerful contribution.
+### Outreach, Communication, and Activism
+You don't need to be an expert to join our cause to end CoV-SARS-2, your voice alone is a powerful contribution!
 
-// Deferring to someone else for the rest of this.
+Strategic communications are our key to success when driving appropriate action on any scale - whether through social media, scientific or general publications, physical media, or word of mouth, we need to help turn knowledge into action through communication.
+
+If you have experience in communication roles, policy, marketing, writing, or can recommend someone who does, we'd love to have you help us tackle this pandemic. 
 
 ## Get Connected
 * [Zerobase Slack](https://necsi-edu.slack.com/archives/CV57RBU8H)
