@@ -34,7 +34,7 @@ to record when we broadcast a new potential exposure and to facilitate the sendi
 The Firestore `/exposures` collection stores the device fingerprint for locations/businesses whose visitors need to be notified of a
 potential exposure. **This device fingerprint never leaves Firestore**, as this collection cannot be queried outside of the internal
 Firebase functions and the administrative console. **We will never expose this data directly.** It is theoretically possible for an
-extremely motivated individual to be able to deduce which location's fingerprint was used to send these messages, but this attack would
+extremely motivated individual to be able to impute which location's fingerprint was used to send these messages, but this attack would
 be highly impractical and is completely unavoidable if we only notify people who visited a location when that location may have exposed
 them. This fingerprint cannot be stored more securely while still fulfilling its purpose.
 
