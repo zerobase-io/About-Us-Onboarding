@@ -20,7 +20,7 @@ We're so glad to have you! Here's where you should start:
 [Contacts spreadsheet](https://docs.google.com/spreadsheets/d/1zCCdLi4jRecI9HlJYk3SqoQ-Md62TB2ub3Hgwgq6LYU/edit#gid=0) 
 so we can stay in touch
 4. Read the first section of [the README](./README.md) to familiarize yourself with our organization and mission
-5. Contact the lead of the team you chose for your first task, and get cracking!
+5. Contact the lead of the team you chose for your first task (check out [OURTEAM](./OURTEAM.md), and get cracking!
 
 From all of us at Zerobase, and for those around the world who your efforts will shelter from the suffering and loss that COVID-19 is
 bringing about, **thank you**. 
@@ -40,8 +40,11 @@ If you can't find a niche that feels right, please reach out on [Slack](https://
 
 ### Software Industry Professionals, Students and Hobbyists
 #### Professionals
+
 // Straight to the chase, GitHub links and any niches for which we have a particular need
+
 // Quick two-sentence description of each subsystem, its tech stack and what it needs
+
 // I don't think we need to sell these people, they know what to do and are almost certainly interested if they're in CONTRIBUTING.md
 
 #### Students and Hobbyists
@@ -54,17 +57,22 @@ to learn about software and programming, ask anyone in this industry if they'd p
 at a university or someone who's worked on a production system for a few months. Nine times out of ten, they'll take the latter.
 
 Here's where you can get started:
+
 // Can we get a list of beginner-friendly tasks for this section? I'm thinking of the huge number of students who are currently not
+
 // in school, and see them as a major potential source of development effort. Lots of opportunity there
 
 ### Medical Professionals
+
 // No idea what to put here, I know we need these people though
 
 ### Outreach and Activism
 You don't need to be an expert in anything to become a part of our cause to end CoV-SARS-2, your voice alone is a powerful contribution.
+
 // Deferring to someone else for the rest of this.
 
 ## Get Connected
 * [Zerobase Slack](https://necsi-edu.slack.com/archives/CV57RBU8H)
 * [Zerobase GitHub Organization](https://github.com/zerobase-io)
+
 // Contact details for recruitment/onboarding?
