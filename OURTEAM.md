@@ -13,7 +13,7 @@ Looking to get in touch, or to know who's in charge of what? We've got you cover
 * **Product:**
     * **Project Management:**
         * **\[LEAD\]** Colm Byrne
-        * Grace Lin
+        * Grace L
         * Mike Titchen
     * **Biomedical:**
         * Jessica Brim
