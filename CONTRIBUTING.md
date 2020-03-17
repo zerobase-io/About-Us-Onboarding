@@ -1,7 +1,8 @@
 # Contributing to Zerobase
 We're so happy to have you! Where governments are unable or unwilling to adequately test people for CoV-SARS-2, we're here to bridge the
-gap by enabling even resource-poor communities to utilize advanced tracing techniques to contain infections. An investment of a few hours
-of your time to our cause could be directly responsible for eliminating days or weeks of unnecessary human suffering. So let's get to it!
+gap by enabling even resource-poor communities to utilize advanced tracing techniques to contain infections. 
+
+You know how every job you've applied to tells you that you'll make an immediate impact? This is where you'll make an immediate impact. An investment of a few hours of your time will be directly responsible for eliminating days or weeks of unnecessary human suffering. So let's get to it!
 
 ## Table of Contents
 * [Let's Go Already! (Start Here)](#lets-go-already-start-here)
