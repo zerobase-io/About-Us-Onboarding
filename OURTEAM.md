@@ -5,6 +5,8 @@ Looking to get in touch, or to know who's in charge of what? We've got you cover
 
 **John Lo, Founder** (john@zerobase.io)
 
+<!--- Comments are for the row ABOVE the comment --->
+
 * **Infrastructure and Operational Security:**
     * **\[LEAD\]** Jason Spriggs
     * Robert Graham
@@ -12,8 +14,11 @@ Looking to get in touch, or to know who's in charge of what? We've got you cover
     * **\[LEAD\]** David Harris
     * George Mauer
     * Michael Buchel
+    <!--- Not in sheet 3/17/20 4:45 CDT --->
     * Brian Stearns
+    <!--- Not in sheet 3/17/20 4:45 CDT --->
     * Gaurav Gehlot
+    <!--- Not in sheet 3/17/20 4:55 CDT --->
 * **Product:**
     * **Project Management:**
         * **\[LEAD\]** Colm Byrne
@@ -35,6 +40,7 @@ Looking to get in touch, or to know who's in charge of what? We've got you cover
     * **General:**
         * Claire Gerson
         * Joseph Santaniello
+        <!--- Not in sheet 3/17/20 4:45 CDT --->
 * **Special Teams:**
     * **\[LEAD\]** Erik Sogn
     * Andrew Kaiser
