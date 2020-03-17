@@ -25,7 +25,7 @@ Looking to get in touch, or to know who's in charge of what? We've got you cover
         * **\[LEAD\]** Justin Chick
         * Matthew Huang
         * Nate Hearnsberger
-        * Nate K
+        * Nate Kitzke
         * Jannik Lehmann
         * Gaurav Mathur
 * **Outreach:**
