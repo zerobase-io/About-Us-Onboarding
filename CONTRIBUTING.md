@@ -74,5 +74,4 @@ You don't need to be an expert in anything to become a part of our cause to end 
 ## Get Connected
 * [Zerobase Slack](https://necsi-edu.slack.com/archives/CV57RBU8H)
 * [Zerobase GitHub Organization](https://github.com/zerobase-io)
-
-// Contact details for recruitment/onboarding?
+* Got questions? We're listening, at info@zerobase.io
