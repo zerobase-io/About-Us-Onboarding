@@ -1,6 +1,9 @@
 # Our Team
 Looking to get in touch, or to know who's in charge of what? We've got you covered.
 
+Aron Szanto, Founder (@aronszanto, aron@zerobase.io)
+John Lo, Founder (john@zerobase.io)
+
 * **Infrastructure and Operational Security:**
     * **\[LEAD\]** Jason Spriggs
     * Robert Graham
@@ -27,7 +30,7 @@ Looking to get in touch, or to know who's in charge of what? We've got you cover
 * **Outreach:**
     * **\[LEAD\]** Andrew Cutter
     * **Legal:**
-        * Bianca V.S.
+        * Bianca Scott
     * **General:**
         * Claire Gerson
         * Joseph Santaniello
