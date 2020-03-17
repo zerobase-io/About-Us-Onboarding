@@ -31,6 +31,6 @@ Looking to get in touch, or to know who's in charge of what? We've got you cover
     * **General:**
         * Claire Gerson
         * Joseph Santaniello
-* **Special Forces:**
+* **Special Teams:**
     * **\[LEAD\]** Erik Sogn
     * Andrew Kaiser
