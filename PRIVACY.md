@@ -3,12 +3,12 @@
 ## Table of Contents
 * [What Data Does Zerobase Collect?](#what-data-does-zerobase-collect)
     * [User Data Collection Policies](#user-data-collection-policies)
-    * [Business/Location Data Collection Policies](#business-location-data-collection-policies)
+    * [Business & Location Data Collection Policies](#business-location-data-collection-policies)
 * [Are Your Data Policies The Same In All Countries?](#are-your-data-policies-the-same-in-all-countries)
 * [How Is My Data Anonymized?](#how-is-my-data-anonymized)
 * [How And Where Does Zerobase Store My Data?](#how-and-where-does-zerobase-store-my-data)
     * [Firebase Notification System](#firebase-notification-system)
-    * [Mongo/Neo4J Tracing System](#mongo-neo4j-tracing-system)
+    * [Mongo or Neo4J Tracing System](#mongo-or-neo4j-tracing-system)
 * [What Data Is Available To Public Health Officials?](#what-data-is-available-to-public-health-officials)
 * [What Extra Data Can I Voluntarily Provide?](#what-extra-data-can-i-voluntarily-provide)
     * [How Will You Use That Data?](#how-will-you-use-that-data)
@@ -17,7 +17,7 @@
 
 #### User Data Collection Policies
 
-#### Business/Location Data Collection Policies
+#### Business & Location Data Collection Policies
 
 ## Are Your Data Policies The Same In All Countries?
 
@@ -43,7 +43,7 @@ Firebase Cloud Messaging system, but this is not data we're storing ourselves, m
 very thoroughly by engineers at Google. **This data is never publicly exposed, and lives only within highly secure internal Firebase 
 systems.**
 
-#### Mongo/Neo4J Tracing System
+#### Mongo or Neo4J Tracing System
 
 // #### Others, as created
 
