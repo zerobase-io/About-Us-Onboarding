@@ -22,7 +22,16 @@ If you're looking for a further explanation of who we are and what we're doing, 
 organizational summary](./Zerobase-Basic.pdf).
 
 ## How Do I Use Zerobase?
-// Brief overview of basic user flows
+Zerobase is designed to be as easy as possible for new users to integrate into their routines, and requires very little training and
+almost zero technical know-how. The user needs only to do three things:
+
+1. Register themselves with Zerobase simply by visiting [our website](https://zerobase.io) on a mobile device
+2. Scan Zerobase QR codes whenever they encounter them (takes under two seconds!)
+3. Occassionally, check back at [our website](https://zerobase.io) for any new notifications. Additionally, users can subscribe to one
+of our direct messaging systems (SMS, email, push notifications)
+
+That's it! Zerobase is fast and easy to use by design. With practice, pulling out your phone and scanning a QR code can be done in under
+two seconds, requiring very minimal disruption to the user's day.
 
 #### How Is Zerobase Implemented?
 If you're still curious and want to learn more, see [our privacy statement](./PRIVACY.md) for the specifics of how we provide this 
