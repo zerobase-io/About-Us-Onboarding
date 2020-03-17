@@ -14,7 +14,7 @@ At its core Zerobase is a location tracker for community hot spots. Businesses, 
 
 We offer unparalleled privacy for users by utilizing innovative and powerful cryptography, so you can trust that this extremely serious
 data relating to an individual's CoV-SARS-2 exposures is infeasible to tamper with and kept highly anonymized. Additionally, we're 100% 
-open-source, so anyone can come and audit our code for security and/or privacy concerns. 
+open-source, so anyone can audit our code for security and/or privacy concerns at any time. 
 
 If you're looking for a further explanation of who we are and what we're doing, check out our [one-page mission statement and
 organizational summary](./Zerobase-Basic.pdf).
