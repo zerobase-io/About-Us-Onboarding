@@ -4,12 +4,26 @@ gap by enabling even resource-poor communities to utilize advanced tracing techn
 of your time to our cause could be directly responsible for eliminating days or weeks of unnecessary human suffering. So let's get to it!
 
 ## Table of Contents
+* [Let's Go Already! (Start Here)](#lets-go-already-start-here)
 * [What Do I Have To Commit To?](#what-do-i-have-to-commit-to)
 * [Who Do We Need?](#who-do-we-need)
     * [Software Industry](#software-industry-professionals-students-and-hobbyists)
     * [Medical Industry](#medical-professionals)
     * [Outreach & Activism](#outreach-and-activism)
 * [Get Connected](#get-connected)
+
+## Let's Go Already! (Start Here)
+We're so glad to have you! Here's where you should start:
+1. Join our [Slack channel](https://necsi-edu.slack.com/archives/CV57RBU8H) and introduce yourself
+2. Check out [Who Do We Need?](#who-do-we-need) to find your niche, or put a message in Slack with how you want to contribute
+3. Add yourself to our 
+[Contacts spreadsheet](https://docs.google.com/spreadsheets/d/1zCCdLi4jRecI9HlJYk3SqoQ-Md62TB2ub3Hgwgq6LYU/edit#gid=0) 
+so we can stay in touch
+4. Read the first section of [the README](./README.md) to familiarize yourself with our organization and mission
+5. Contact the lead of the team you chose for your first task, and get cracking!
+
+From all of us at Zerobase, and for those around the world who your efforts will shelter from the suffering and loss that COVID-19 is
+bringing about, **thank you**. 
 
 ## What Do I Have To Commit To?
 Nothing, unless you want to. While there are positions and resposibilities that will require a consistent commitment of a few hours a day,
