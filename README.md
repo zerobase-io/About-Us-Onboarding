@@ -33,11 +33,9 @@ of our direct messaging systems (SMS, email, push notifications)
 That's it! Zerobase is fast and easy to use by design. With practice, pulling out your phone and scanning a QR code can be done in under
 two seconds, requiring very minimal disruption to the user's day.
 
-#### How Is Zerobase Implemented?
-If you're still curious and want to learn more, see [our privacy statement](./PRIVACY.md) for the specifics of how we provide this 
-service with an unrivaled promise of privacy, or visit 
-[the Wikipedia page for Public Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography) for the mathematics and further 
-explanations of how such systems guarantee privacy and authenticity. Additionally, we're 100% open-source, so if you want to see how
+## How Is Zerobase Implemented?
+If you're curious how Zerobase works and want to learn more, see [our privacy statement](./PRIVACY.md) for the specifics of how we 
+provide this service with an unrivaled promise of privacy. Additionally, we're 100% open-source, so if you want to see how
 something works or how your data is handled, you can view our source code directly. The only thing you *can't* see is our private user
 data.
 
