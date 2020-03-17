@@ -3,7 +3,7 @@
 ## Table of Contents
 * [What Data Does Zerobase Collect?](#what-data-does-zerobase-collect)
     * [User Data Collection Policies](#user-data-collection-policies)
-    * [Business & Location Data Collection Policies](#business-location-data-collection-policies)
+    * [Business And Location Data Collection Policies](#business-and-location-data-collection-policies)
 * [Are Your Data Policies The Same In All Countries?](#are-your-data-policies-the-same-in-all-countries)
 * [How Is My Data Anonymized?](#how-is-my-data-anonymized)
 * [How And Where Does Zerobase Store My Data?](#how-and-where-does-zerobase-store-my-data)
@@ -17,7 +17,7 @@
 
 #### User Data Collection Policies
 
-#### Business & Location Data Collection Policies
+#### Business And Location Data Collection Policies
 
 ## Are Your Data Policies The Same In All Countries?
 
