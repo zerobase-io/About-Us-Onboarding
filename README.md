@@ -1,8 +1,19 @@
-# About-Us-Onboarding
+# About Us & Onboarding
 All things relating to our organization, the Zerobase project and how you can get involved!
+
+## Table of Contents
+* [What is Zerobase?](#what-is-zerobase)
+* [How Do I Use Zerobase?](#how-do-i-use-zerobase)
+* [How Does Zerobase Keep My Data Private?](#how-does-zerobase-keep-my-data-private)
+    * [How is Zerobase Implemented?](#how-is-zerobase-implemented)
+* [How Can I Contribute to Zerobase?](#how-can-i-contribute-to-zerobase)
+    * [Relevant Links](#relevant-links)
+
+
 
 ## What is Zerobase?
 // Quick high-level explanation of the mission of the organization, and what we offer that's unique (like privacy)
+// Link off to one-pager: [text that will show to user](./Zerobase-Basic.pdf)
 
 ## How Do I Use Zerobase?
 // Brief overview of basic user flows
@@ -17,12 +28,14 @@ All things relating to our organization, the Zerobase project and how you can ge
 // Link to PRIVACY.md
 #### How Is Zerobase Implemented?
 // "public key crypto", links to our own compsci/data science explanations, links to other resources like Wikipedia page for PKC
-// This is just a footnote for people who don't believe our promises. 
+// This is just a footnote for people who are skeptical of our promises or are genuinely curious. 
 
 ## How Can I Contribute to Zerobase?
-// MOST IMPORTANT: Link to CONTRIBUTING.md
-// Link to Github org (even though we're already in it)
-// Link to Slack
-// Link to Google Sheet for recording volunteers
-// Will let project management fill in the rest of this section
+Ready to jump in? [Here's where you can start!](./CONTRIBUTING.md)
+
+#### Relevant Links
+Zerobase GitHub Organization: https://github.com/zerobase-io
+Zerobase Slack: https://necsi-edu.slack.com/archives/CV57RBU8H
+Volunteer Sign Up Sheet: https://docs.google.com/spreadsheets/d/1zCCdLi4jRecI9HlJYk3SqoQ-Md62TB2ub3Hgwgq6LYU/edit#gid=0
+
 
