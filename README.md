@@ -10,10 +10,12 @@ All things relating to our organization, the Zerobase project and how you can ge
     * [Relevant Links](#relevant-links)
 
 ## What is Zerobase?
-At its core Zerobase is a location tracker for community hot spots. Businesses, organizations, locations use a designated smartphone to enroll, print out a QR code and request that every individual entering the premise scan the code. We work with public health agencies to then backtrace potential exposure events in the case that an individual tests positive and notify all affected locations and individuals with next steps.
+Zerobase is a smart tracing technology that helps public health officials identify individuals in our communities who have interacted with someone with COVID-19. In light of scarce testing resources, tracing supercharges each available test kit by helping identify the hundreds of untested members of a community that are at risk of infection based on their proximity to an infected individual. You can find more info in the [attached PDF](Zerobase-Basic.pdf).
 
-We offer unparalleled privacy for users by utilizing innovative and powerful cryptography, so you can trust that this extremely serious
-data relating to an individual's CoV-SARS-2 exposures is infeasible to tamper with and kept highly anonymized. Additionally, we're 100% 
+At its core Zerobase is a location tracker for community hot spots. Businesses, organizations, locations use a designated smartphone to enroll, print out a QR code, and request that every individual entering the premise scan the code. We work with public health agencies to then backtrace potential exposure events in the case that an individual tests positive and notify all affected locations and individuals with next steps.
+
+We offer unparalleled privacy for users by utilizing innovative and powerful cryptography, so you can trust that the sensitive
+data relating to an individual's CoV-SARS-2 testing cannot be tampered with and is kept anonymized. Additionally, we're 100% 
 open-source, so anyone can audit our code for security and/or privacy concerns at any time. 
 
 If you're looking for a further explanation of who we are and what we're doing, check out our [one-page mission statement and
@@ -21,22 +23,6 @@ organizational summary](./Zerobase-Basic.pdf).
 
 ## How Do I Use Zerobase?
 // Brief overview of basic user flows
-
-## How Can Zerobase Keep My Identity Secret AND Use My Data?
-We cover this in great detail in [our privacy statement](./PRIVACY.md), including techinical and implementation details. But if you want
-the short version, the answer is *public key cryptography*. Imagine you have two unique cans of paint, and you pour out a little bit of
-each can into a cup and stir it until completely mixed. If I asked you to look at the two cans of paint and tell me if their combination
-was the same color as the paint in our cup, it would be easy to answer, "yes, those two colors mix into this third one." But if asked to
-determine the colors of the paint in the cans given *only* the color of the mixed paint in the cup, this is obviously an unfair problem!
-There is no simple way to unmix two colors of paint, your only option would be to go to the store, buy a can of every single color of
-paint and try every possible combination until you got lucky and figured it out via brute force. That would take a very long time! This
-example illustrates what a "trapdoor" function is: it's easy to verify that some inputs result in a given output, but it's infeasible
-to reverse this and figure out the inputs from only a given output. Using this powerful "easy-forwards, hard-backwards" principal and
-some clever mathematics, we can have all users store some data that uniquely identifies them (their "private key") and use that as in 
-input for a function whose output we store in our databases. This way, we can have the user prove their identity by asking them a 
-question that requires their private key to answer, but we don't ever actually store that private key ourselves. We can then use their
-data without exposing their identity AND maintain knowledge of who's who by storing the output of one of these special trapdoor 
-functions.
 
 #### How Is Zerobase Implemented?
 If you're still curious and want to learn more, see [our privacy statement](./PRIVACY.md) for the specifics of how we provide this 
