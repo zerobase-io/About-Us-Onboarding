@@ -38,7 +38,7 @@ Whether it's technical expertise, organization, leadership or just your time, an
 Zerobase. While developers are likely to be the largest category of contributors in terms of numbers, we need folks of all disciplines and
 walks of life to make this happen. We are in *particular* need of your help if you fall into the categories listed below but this list 
 is not exhaustive; we need all kinds of people forall kinds of tasks.
-If you can't find a niche that feels right, please reach out on [Slack](https://necsi-edu.slack.com/archives/CV57RBU8H). 
+If you can't find a niche that feels right, please reach out on [Slack](https://join.slack.com/t/necsi-edu/shared_invite/zt-cu5215sg-63h4A7uCy~ehDsrfAIJ~_Q). 
 
 ### Software Industry Professionals, Students and Hobbyists
 #### Professionals
@@ -70,25 +70,21 @@ with a large network of highly knowledgable and experienced professionals who yo
 to learn about software and programming, ask anyone in this industry if they'd prefer hire someone with a year of Comp Sci learning 
 at a university or someone who's worked on a production system for a few months. Nine times out of ten, they'll take the latter.
 
-If you're ready to get started, reach out to any of the following people:
+If you're ready to get started, reach out to of the following people on Slack:
 * Erik Sogn
 * Andrew Kaiser
-* Aron Szanto
-* John Lo
-* info@zerobase.io
 
 ### Medical Professionals
-Save lives by bringing about more effective rapid case identification and containment. Whether your expertise is running a gel or 
-running an ICU, your knowledge is needed to help bring this system online quickly and to ensure best clinical utility.
+*Urgent:* We need experienced professionals in the healthcare and/or biomedical arena to help us bridge the gap between cloud technology and boots on the ground.
 
-Interested in becoming the lead for this team? Reach out on the Zerobase Slack, we'd love to have you.
+Save lives by bringing about more effective rapid case identification and containment. Whether your expertise is running a gel or running an ICU, your knowledge is needed to help bring this system online quickly and to ensure best clinical utility.
 
-### Outreach and Activism
-You don't need to be an expert in anything to become a part of our cause to end CoV-SARS-2, your voice alone is a powerful contribution.
+If you're an MD, RN, MPH, biomedical expert, or similar, please reach out on the Zerobase Slack, we'd love to have you.
 
-Strategic communications are our key to success when driving appropriate action on any scale - whether through social media, scientific or general publications, physical media, or word of mouth, we need to help turn knowledge into action through communication.
+### Outreach, Law, Public Policy, and Activism
+If you have experience in law, communication, policy, social media, marketing, writing, or can recommend someone who does, we'd love to have your help in tackling this pandemic.
 
-If you have experience in communication roles, policy, marketing, writing, or can recommend someone who does, we'd love to have you help us tackle this pandemic. 
+
 
 Your team lead is Andrew Cutter.
 
