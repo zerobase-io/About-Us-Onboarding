@@ -78,8 +78,10 @@ If you're ready to get started, reach out to any of the following people:
 * info@zerobase.io
 
 ### Medical Professionals
+Save lives by bringing about more effective rapid case identification and containment. Whether your expertise is running a gel or 
+running an ICU, your knowledge is needed to help bring this system online quickly and to ensure best clinical utility.
 
-// No idea what to put here, I know we need these people though
+Interested in becoming the lead for this team? Reach out on the Zerobase Slack, we'd love to have you.
 
 ### Outreach and Activism
 You don't need to be an expert in anything to become a part of our cause to end CoV-SARS-2, your voice alone is a powerful contribution.
