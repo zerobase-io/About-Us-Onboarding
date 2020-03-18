@@ -16,7 +16,8 @@ You know how every job you've applied to tells you that you'll make an immediate
 ## Let's Go Already! (Start Here)
 We're so glad to have you! Here's where you should start:
 1. Join our [Slack channel](https://necsi-edu.slack.com/archives/CV57RBU8H) and introduce yourself
-2. Check out [Who Do We Need?](#who-do-we-need) to find your niche, or put a message in Slack with how you want to contribute
+2. Check out [Who Do We Need?](#who-do-we-need) to find your niche, or put a message in 
+[Slack](https://necsi-edu.slack.com/archives/CV57RBU8H) with how you want to contribute
 3. Add yourself to our 
 [Contacts spreadsheet](https://docs.google.com/spreadsheets/d/1zCCdLi4jRecI9HlJYk3SqoQ-Md62TB2ub3Hgwgq6LYU/edit#gid=0) 
 so we can stay in touch
@@ -41,12 +42,24 @@ If you can't find a niche that feels right, please reach out on [Slack](https://
 
 ### Software Industry Professionals, Students and Hobbyists
 #### Professionals
+If you jumped right to this section, we don't need to tell you what to do. Here are the teams you'll likely be a part of:
 
-// Straight to the chase, GitHub links and any niches for which we have a particular need
+##### Infrastructure and Operational Security
+DevOps, OpSec, K8s, and all the other fun shorthands, they live here!
+Your team lead is Jason Spriggs.
 
-// Quick two-sentence description of each subsystem, its tech stack and what it needs
+##### Backend and Persistence
+DBAs, Sys admins, CI/CD pros, NodeJS devs, Express experts, here's your home. Data scientists too!
+Your team lead is David Harris.
 
-// I don't think we need to sell these people, they know what to do and are almost certainly interested if they're in CONTRIBUTING.md
+##### Product (Technical & Frontend Subteam)
+UX experts, web devs, mobile moguls, unite!
+Your team lead is Justin Chick.
+
+##### Special Teams
+Are you flexible and adaptable? Are you good at spiking out systems without an example to work from? This team will challenge you to
+continue to grow as a developer by solving novel and varied problems. All specialties are welcome.
+Your team lead is Erik Sogn.
 
 #### Students and Hobbyists
 Is your proficiency closer to a "Hello, World!" or beginner level? No worries, your time and attention can still make a big impact.
@@ -57,22 +70,25 @@ with a large network of highly knowledgable and experienced professionals who yo
 to learn about software and programming, ask anyone in this industry if they'd prefer hire someone with a year of Comp Sci learning 
 at a university or someone who's worked on a production system for a few months. Nine times out of ten, they'll take the latter.
 
-Here's where you can get started:
-
-// Can we get a list of beginner-friendly tasks for this section? I'm thinking of the huge number of students who are currently not
-
-// in school, and see them as a major potential source of development effort. Lots of opportunity there
+If you're ready to get started, reach out to any of the following people:
+* Erik Sogn
+* Andrew Kaiser
+* Aron Szanto
+* John Lo
+* info@zerobase.io
 
 ### Medical Professionals
 
 // No idea what to put here, I know we need these people though
 
-### Outreach, Communication, and Activism
-You don't need to be an expert to join our cause to end CoV-SARS-2, your voice alone is a powerful contribution!
+### Outreach and Activism
+You don't need to be an expert in anything to become a part of our cause to end CoV-SARS-2, your voice alone is a powerful contribution.
 
 Strategic communications are our key to success when driving appropriate action on any scale - whether through social media, scientific or general publications, physical media, or word of mouth, we need to help turn knowledge into action through communication.
 
 If you have experience in communication roles, policy, marketing, writing, or can recommend someone who does, we'd love to have you help us tackle this pandemic. 
+
+Your team lead is Andrew Cutter.
 
 ## Get Connected
 * [Zerobase Slack](https://necsi-edu.slack.com/archives/CV57RBU8H)
