@@ -36,8 +36,7 @@ two seconds, requiring very minimal disruption to the user's day.
 ## How Is Zerobase Implemented?
 If you're curious how Zerobase works and want to learn more, see [our privacy statement](./PRIVACY.md) for the specifics of how we 
 provide this service with an unrivaled promise of privacy. Additionally, we're 100% open-source, so if you want to see how
-something works or how your data is handled, you can view our source code directly. The only thing you *can't* see is our private user
-data.
+something works or how your data is handled, you can view our source code directly.
 
 ## How can I help?
 Ready to jump in? [Here's our quickstart guide for technical and nontechnical contributors. Join us!](./CONTRIBUTING.md)
