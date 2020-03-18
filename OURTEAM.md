@@ -31,7 +31,7 @@ Looking to get in touch, or to know who's in charge of what? We've got you cover
         * Matthew Huang
         * Nate Hearnsberger
         * Nate Kitzke
-        * Jannik Lehmann
+        * Jannik (Jake) Lehmann
         * Gaurav Mathur
 * **Outreach:**
     * **\[LEAD\]** Andrew Cutter
