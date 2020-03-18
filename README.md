@@ -39,8 +39,8 @@ provide this service with an unrivaled promise of privacy. Additionally, we're 1
 something works or how your data is handled, you can view our source code directly. The only thing you *can't* see is our private user
 data.
 
-## How Can I Contribute to Zerobase?
-Ready to jump in? [Here's where you can start!](./CONTRIBUTING.md)
+## How can I help?
+Ready to jump in? [Here's our quickstart guide for technical and nontechnical contributors. Join us!](./CONTRIBUTING.md)
 
 #### Relevant Links
 * [Zerobase GitHub Organization](https://github.com/zerobase-io)
