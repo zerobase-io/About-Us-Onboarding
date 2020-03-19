@@ -14,12 +14,17 @@ Looking to get in touch, or to know who's in charge of what? We've got you cover
     * **\[LEAD\]** David Harris
     * George Mauer
     * Michael Buchel
-    <!--- Not in sheet 3/17/20 4:45 CDT --->
     * Brian Stearns
     <!--- Not in sheet 3/17/20 4:45 CDT --->
     * Gaurav Gehlot
     <!--- Not in sheet 3/17/20 4:55 CDT --->
 * **Product:**
+    * Gabe O'Leary
+    * Gary Chizever
+    * Daniel Light
+    * Dimitri Knight
+    * Michael Eggert
+    * Josh Hopkins
     * **Project Management:**
         * **\[LEAD\]** Colm Byrne
         * Grace L
@@ -40,7 +45,13 @@ Looking to get in touch, or to know who's in charge of what? We've got you cover
     * **General:**
         * Claire Gerson
         * Joseph Santaniello
-        <!--- Not in sheet 3/17/20 4:45 CDT --->
 * **Special Teams:**
     * **\[LEAD\]** Erik Sogn
     * Andrew Kaiser
+* **Other**
+    * Frederic Maurer
+    * Wilson Qin
+    * Deepak Puri
+    * Joe Santaniello
+    * Sam Hatem
+    * Manuel Gomez Rodriguez
