@@ -18,9 +18,7 @@ We're so glad to have you! Here's where you should start:
 1. Join our [Slack channel](https://necsi-edu.slack.com/archives/CV57RBU8H) and introduce yourself
 2. Check out [Who Do We Need?](#who-do-we-need) to find your niche, or put a message in 
 [Slack](https://necsi-edu.slack.com/archives/CV57RBU8H) with how you want to contribute
-3. Add yourself to our 
-[Contacts spreadsheet](https://docs.google.com/spreadsheets/d/1zCCdLi4jRecI9HlJYk3SqoQ-Md62TB2ub3Hgwgq6LYU/edit#gid=0) 
-so we can stay in touch
+3. Fill out the [contact form](TODO: link) so we can stay in touch and make sure you have access to all our tools.
 4. Read the first section of [the README](./README.md) to familiarize yourself with our organization and mission
 5. Contact the lead of the team you chose for your first task (check out [OURTEAM](./OURTEAM.md), and get cracking!
 
