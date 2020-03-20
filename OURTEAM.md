@@ -19,14 +19,14 @@ Looking to get in touch, or to know who's in charge of what? We've got you cover
     * Gaurav Gehlot
     <!--- Not in sheet 3/17/20 4:55 CDT --->
 * **Product:**
+ * **\[LEAD\]** Colm Byrne
     * Gabe O'Leary
     * Gary Chizever
     * Daniel Light
     * Dimitri Knight
     * Michael Eggert
     * Josh Hopkins
-    * **Project Management:**
-        * **\[LEAD\]** Colm Byrne
+    * **Project Management:*
         * Grace L
         * Mike Titchen
     * **Biomedical:**
