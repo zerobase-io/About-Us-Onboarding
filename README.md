@@ -44,4 +44,4 @@ Ready to jump in? [Here's our quickstart guide for technical and nontechnical co
 #### Relevant Links
 * [Zerobase GitHub Organization](https://github.com/zerobase-io)
 * [Zerobase Slack](https://join.slack.com/t/necsi-edu/shared_invite/zt-cu5215sg-63h4A7uCy~ehDsrfAIJ~_Q)
-* [Volunteer Sign Up Sheet](https://docs.google.com/spreadsheets/d/1zCCdLi4jRecI9HlJYk3SqoQ-Md62TB2ub3Hgwgq6LYU/edit#gid=0)
+* [Volunteer Sign Up Sheet](TODO: link)
