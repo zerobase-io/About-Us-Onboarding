@@ -1,7 +1,7 @@
 # Our Team
 Looking to get in touch, or to know who's in charge of what? We've got you covered.
 
-**Aron Szanto, Founder** (@aronszanto, aron@zerobase.io)
+**Aron Szanto, Founder** ([@aronszanto](https://github.com/aronszanto), aron@zerobase.io)
 
 **John Lo, Founder** (john@zerobase.io)
 
