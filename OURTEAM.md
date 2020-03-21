@@ -19,39 +19,43 @@ Looking to get in touch, or to know who's in charge of what? We've got you cover
     * Gaurav Gehlot
     <!--- Not in sheet 3/17/20 4:55 CDT --->
 * **Product:**
- * **\[LEAD\]** Colm Byrne
+ * **\[LEAD\]** Colm Byrne (PM)
     * Gabe O'Leary
-    * Gary Chizever
+    * Gary Chizever, M.D. (Medical Lead)
     * Daniel Light
-    * Dimitri Knight
+    * Dimitri Knight (Design)
     * Michael Eggert
-    * Josh Hopkins
+    * Josh Hopkins (PM)
     * **Project Management:*
         * Grace L
-        * Mike Titchen
+        * Mike Titchen (Backend PM)
     * **Biomedical:**
         * Jessica Brim
     * **Technical and Frontend:**
-        * **\[LEAD\]** Justin Chick
+        * **\[LEAD\]** John Lo
         * Matthew Huang
         * Nate Hearnsberger
         * Nate Kitzke
         * Jannik (Jake) Lehmann
         * Gaurav Mathur
 * **Outreach:**
-    * **\[LEAD\]** Andrew Cutter
+    * **\[LEAD\]** Benyam Capel (Political)
     * **Legal:**
         * Bianca Scott
     * **General:**
         * Claire Gerson
+    * **Political:**
         * Joseph Santaniello
+        * Manfred Wendt
+    * **Resourcing:**
+        * Martine
+        * Jeri Lim
 * **Special Teams:**
     * **\[LEAD\]** Erik Sogn
     * Andrew Kaiser
 * **Other**
+    * Manuel Gomez Rodriguez (ML Lead, Max Planck Institute Liaison)
     * Frederic Maurer
     * Wilson Qin
     * Deepak Puri
-    * Joe Santaniello
     * Sam Hatem
-    * Manuel Gomez Rodriguez
