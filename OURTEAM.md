@@ -9,7 +9,7 @@ Looking to get in touch, or to know who's in charge of what? We've got you cover
 
 * **Infrastructure and Operational Security:**
     * **\[LEAD\]** Jason Spriggs
-    * Robert Graham
+    * Attila Strba
 * **Backend and Persistence/Databases:**
     * **\[LEAD\]** David Harris
     * George Mauer
@@ -19,12 +19,9 @@ Looking to get in touch, or to know who's in charge of what? We've got you cover
     * Gaurav Gehlot
     <!--- Not in sheet 3/17/20 4:55 CDT --->
 * **Product:**
- * **\[LEAD\]** Colm Byrne (PM)
-    * Gabe O'Leary
+ * **\[LEAD\]** Colm Byrne (PM Lead)
     * Gary Chizever, M.D. (Medical Lead)
-    * Daniel Light
     * Dimitri Knight (Design)
-    * Michael Eggert
     * Josh Hopkins (PM)
     * **Project Management:*
         * Grace L
@@ -42,6 +39,7 @@ Looking to get in touch, or to know who's in charge of what? We've got you cover
     * **\[LEAD\]** Benyam Capel (Political)
     * **Legal:**
         * Bianca Scott
+        * Crowell & Moring, Outside Counsel
     * **General:**
         * Claire Gerson
     * **Political:**
