@@ -53,3 +53,4 @@ Ready to jump in? [Here's our quickstart guide for technical and nontechnical co
 #### Relevant Links
 * [Zerobase GitHub Organization](https://github.com/zerobase-io)
 * [Volunteer Sign Up Sheet](https://tinyurl.com/zerobase-volunteer)
+* [Zerobase Pitch Deck](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/zerobase-pitch.pdf)
