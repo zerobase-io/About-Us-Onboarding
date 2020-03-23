@@ -9,8 +9,7 @@ All things relating to our organization, the Zerobase project and how you can ge
 ## Table of Contents
 * [Contact Tracing](#contact-tracing)
 * [How Do I Use Zerobase?](#how-do-i-use-zerobase)
-* [How Can Zerobase Keep My Identity Secret AND Use My Data?](#how-can-zerobase-keep-my-identity-secret-and-use-my-data)
-    * [How is Zerobase Implemented?](#how-is-zerobase-implemented)
+* [How is Zerobase Implemented?](#how-is-zerobase-implemented)
 * [How Can I Contribute to Zerobase?](#how-can-i-contribute-to-zerobase)
     * [Relevant Links](#relevant-links)
 
@@ -46,9 +45,7 @@ That's it! Zerobase is fast and easy to use by design. With practice, pulling ou
 two seconds, requiring very minimal disruption to the user's day.
 
 ## How Is Zerobase Implemented?
-If you're curious how Zerobase works and want to learn more, see [our privacy statement](./PRIVACY.md) for the specifics of how we 
-provide this service with an unrivaled promise of privacy. Additionally, we're 100% open-source, so if you want to see how
-something works or how your data is handled, you can view our source code directly.
+If you're curious how Zerobase works and want to learn more, see [our privacy statement](./PRIVACY.md) for the specifics of how we provide this service with an unrivaled promise of privacy. Additionally, we're 100% open-source, so if you want to see how something works or how your data is handled, you can view our source code directly.
 
 ## How can I help?
 Ready to jump in? [Here's our quickstart guide for technical and nontechnical contributors. Join us!](./CONTRIBUTING.md)
