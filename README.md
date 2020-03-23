@@ -1,25 +1,37 @@
+# Zerobase
+Zerobase is a smart, anonymous tracing technology that identifies and notifies individuals in our communities who have been exposed to COVID-19, even before they exhibit symptoms. Zerobase is simple, free, and ready to use.
+
+[Join us](https://tinyurl.com/zerobase-volunteer) in our fight to end COVID-19.
+
 # About Us & Onboarding
 All things relating to our organization, the Zerobase project and how you can get involved!
 
 ## Table of Contents
-* [What is Zerobase?](#what-is-zerobase)
+* [Contact Tracing](#contact-tracing)
 * [How Do I Use Zerobase?](#how-do-i-use-zerobase)
 * [How Can Zerobase Keep My Identity Secret AND Use My Data?](#how-can-zerobase-keep-my-identity-secret-and-use-my-data)
     * [How is Zerobase Implemented?](#how-is-zerobase-implemented)
 * [How Can I Contribute to Zerobase?](#how-can-i-contribute-to-zerobase)
     * [Relevant Links](#relevant-links)
 
-## What is Zerobase?
-Zerobase is a smart tracing technology that helps public health officials identify individuals in our communities who have interacted with someone with COVID-19. In light of scarce testing resources, tracing supercharges each available test kit by helping identify the hundreds of untested members of a community that are at risk of infection based on their proximity to an infected individual. You can find more info in the [attached PDF](Zerobase-Basic.pdf).
 
-At its core Zerobase is a location tracker for community hot spots. Businesses, organizations, locations use a designated smartphone to enroll, print out a QR code, and request that every individual entering the premise scan the code. We work with public health agencies to then backtrace potential exposure events in the case that an individual tests positive and notify all affected locations and individuals with next steps.
 
-We offer unparalleled privacy for users by utilizing innovative and powerful cryptography, so you can trust that the sensitive
-data relating to an individual's CoV-SARS-2 testing cannot be tampered with and is kept anonymized. Additionally, we're 100% 
-open-source, so anyone can audit our code for security and/or privacy concerns at any time. 
+## Contact Tracing
+Tracing is the identification of likely disease-spreading interaction between individuals. It is a crucial part of modern pandemic response.
 
-If you're looking for a further explanation of who we are and what we're doing, check out our [one-page mission statement and
-organizational summary](./Zerobase-Basic.pdf).
+If an individual is exposed to COVID-19, tracing allows us to identify any number of others who were in the same place, such as a grocery store, pharmacy, place of worship, or doctor’s office, at the same time as the infected person. Public health officials can then notify those people to stay home temporarily and/or get tested themselves, thus slowing the spread of the virus.
+
+To contain COVID-19, communities must engage in both effective tracing and testing measures. However, while testing is currently limited and we await the mass-manufacture of test kits, we can best prepare by using a tracing system in our communities as soon as possible. Tracing maximizes the value of every single test by helping identify the hundreds of untested members of a community that are at risk of infection based on their proximity to an infected individual.
+
+How Does Zerobase Work?
+
+We have developed a simple and effective tracing solution that is ready to be used in any community. Here’s how it works:
+
+1. Paper printouts with unique Zerobase QR codes are posted at the entrances of high-risk touchpoints like grocery stores, restaurants, pharmacies, doctor's offices, and places of worship.
+2. People entering a participating location scan the code (for most people, this is as simple as pointing their phone’s camera at the sign - it takes just a few seconds, and no app installation required). 
+3. Zerobase’s tracing technology anonymously analyzes community networks of interaction to identify people who visited the same place at roughly the same time. 
+4. If an individual tests positive for COVID-19, public health officials can use Zerobase to direct anyone who has been in their presence to self-quarantine and/or get tested.
+
 
 ## How Do I Use Zerobase?
 Zerobase is designed to be as easy as possible for new users to integrate into their routines, and requires very little training and
