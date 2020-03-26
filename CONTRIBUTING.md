@@ -51,7 +51,7 @@ Your team lead is David Harris.
 
 ##### Product (Technical & Frontend Subteam)
 UX experts, web devs, mobile moguls, unite!
-Your team lead is Justin Chick.
+Your team lead is John Lo
 
 ##### Special Teams
 Are you flexible and adaptable? Are you good at spiking out systems without an example to work from? This team will challenge you to
@@ -81,9 +81,7 @@ If you're an MD, RN, MPH, biomedical expert, or similar, please reach out on the
 ### Outreach, Law, Public Policy, and Activism
 If you have experience in law, communication, policy, social media, marketing, writing, or can recommend someone who does, we'd love to have your help in tackling this pandemic.
 
-
-
-Your team lead is Andrew Cutter.
+Your team lead is Benyam Capel.
 
 ## Get Connected
 * [Zerobase Slack](https://necsi-edu.slack.com/archives/CV57RBU8H)
