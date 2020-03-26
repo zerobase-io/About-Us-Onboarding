@@ -1,7 +1,7 @@
 Q&A about Zerobase for Healthcare Providers
 
 What is Zerobase?
-Zerobase ​is a tool used by state and local health officials to pinpoint individuals likeliest to next develop COVID-19. Zerobase uses anonymized predictive technology to help protect communities before an outbreak occurs, enabling officials to best allocate their resources, eliminating guesswork, and reducing illness and fear.   
+Zerobase ​is a virtual contact tracing tool used by state and local health officials to pinpoint individuals likeliest to next develop COVID-19 and locations most critical to the spread of the disease. Zerobase uses anonymized predictive technology to help protect communities before an outbreak occurs, enabling officials to best allocate their resources, eliminating guesswork, and reducing illness and fear.   
 
 How much does it cost?
 Zerobase is being offered without charge. It has been organized as a nonprofit effort and labor has been donated.
