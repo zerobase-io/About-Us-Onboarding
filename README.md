@@ -33,14 +33,10 @@ infection based on their proximity to an infected individual.
 
 We have developed a simple and effective tracing solution that is ready to be used in any community. Here’s how it works:
 
-1. Paper printouts with unique Zerobase QR codes are posted at the entrances of high-risk touchpoints like grocery stores, restaurants,  
-pharmacies, doctor's offices, and places of worship.
-2. People entering a participating location scan the code (for most people, this is as simple as pointing their phone’s camera at the 
-sign - it takes just a few seconds, and no app installation required). 
-3. Zerobase’s tracing technology anonymously analyzes community networks of interaction to identify people who visited the same place at 
-roughly the same time. 
-4. If an individual tests positive for COVID-19, public health officials can use Zerobase to direct anyone who has been in their 
-presence to self-quarantine and/or get tested.
+1. Paper printouts with unique Zerobase QR codes are posted at the entrances of high-risk touchpoints like grocery stores, restaurants, pharmacies, doctor's offices, and places of worship.
+2. People entering a participating location scan the code (for most people, this is as simple as pointing their phone’s camera at the sign - it takes just a few seconds, and no app installation required). 
+3. Zerobase’s tracing technology anonymously analyzes community networks of interaction to identify people who visited the same place at roughly the same time. 
+4. If an individual tests positive for COVID-19, public health officials can use Zerobase to direct anyone who has been in their presence to self-quarantine and/or get tested.
 
 
 ## How Do I Use Zerobase?
