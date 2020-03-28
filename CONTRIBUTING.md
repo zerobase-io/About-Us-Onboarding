@@ -52,23 +52,28 @@ If you jumped right to this section, we don't need to tell you what to do. Here 
 
 ##### Infrastructure and Operational Security
 DevOps, OpSec, K8s, and all the other fun shorthands, they live here!
+
 Your team lead is Jason Spriggs and your Slack channel is #zerobase-infra.
 
 ##### Frontend
 Web devs, mobile moguls, UI/UX experts, we *especially* need your help. We're so glad to have you!
+
 Your team lead is John Lo and your Slack channel is #zerobase-frontend.
 
 ##### Backend and Persistence
 DBAs, Sys admins, CI/CD pros, NodeJS devs, Express experts, here's your home. Data scientists too!
+
 Your team lead is David Harris and your Slack channel is #zerobase-backend.
 
 ##### Product
 Product and product managers, Jira jedis and anyone else who considers organization to be a strong-point, your expertise is needed here.
+
 Your team lead is Colm Byrne and your Slack channel is #zerobase-product.
 
 ##### Special Teams
 Are you flexible and adaptable? Are you good at spiking out systems without an example to work from? This team will challenge you to
 continue to grow as a developer by solving novel and varied problems. All specialties are welcome.
+
 Your team lead is Erik Sogn and your Slack channel is #zerobase-specialteams.
 
 #### Students and Hobbyists
