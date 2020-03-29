@@ -58,6 +58,7 @@ works or how your data is handled, you can view our source code directly.
 
 ## How can I help?
 Ready to jump in? [Here's our quickstart guide for technical and nontechnical contributors. Join us!](./CONTRIBUTING.md)
+Remember to join us at 5PM EDT for our daily worldwide All Hands call! Meet new friends, hear about our progress, become part of the team. Details on Slack.
 
 #### Relevant Links
 * [Zerobase GitHub Organization](https://github.com/zerobase-io)
