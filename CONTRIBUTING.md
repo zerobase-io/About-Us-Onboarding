@@ -56,9 +56,9 @@ DevOps, OpSec, K8s, and all the other fun shorthands, they live here!
 Your team lead is Jason Spriggs and your Slack channel is #zerobase-infra.
 
 ##### Frontend
-Web devs, mobile moguls, UI/UX experts, we *especially* need your help. We're so glad to have you!
+Web devs, mobile moguls, UI/UX experts, we *especially* need your help. We're so glad to have you! We're in need of a senior FE lead who will make an immediate impact on technology that will save lives.
 
-Your team lead is John Lo and your Slack channel is #zerobase-frontend.
+Your interim team lead is John Lo and your Slack channel is #zerobase-frontend.
 
 ##### Backend and Persistence
 DBAs, Sys admins, CI/CD pros, NodeJS devs, Express experts, here's your home. Data scientists too!
