@@ -70,11 +70,10 @@ Product and product managers, Jira jedis and anyone else who considers organizat
 
 Your team lead is Colm Byrne and your Slack channel is #zerobase-product.
 
-##### Special Teams
-Are you flexible and adaptable? Are you good at spiking out systems without an example to work from? This team will challenge you to
-continue to grow as a developer by solving novel and varied problems. All specialties are welcome.
+##### Deployments
+Validated learning experts, user research gurus, iterative feedback afficionadoes. These people see to it that Zerobase is successful and improving on the ground. They also manage our support systems and ensure that problems get solved immediately.
 
-Your team lead is Erik Sogn and your Slack channel is #zerobase-specialteams.
+Your team lead is Erik Sogn and your Slack channel is #zerobase-deployments.
 
 #### Students and Hobbyists
 Is your proficiency closer to a "Hello, World!" or beginner level? No worries, your time and attention can still make a big impact.
