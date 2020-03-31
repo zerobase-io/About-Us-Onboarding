@@ -20,7 +20,7 @@ human suffering. So let's get to it!
 We're so glad to have you! Here's where you should start:
 1. Join our [Slack workspace](https://join.slack.com/t/necsi-edu/shared_invite/zt-cu5215sg-63h4A7uCy~ehDsrfAIJ~_Q), _make sure you join 
 the #link-zerobase channel_, and introduce yourself there!
-2. Check out [Who Do We Need?](#who-do-we-need) to find your niche, or reach out on Slack to @Daniella (Volunteer Lead) if not sure.
+2. Check out [Who Do We Need?](#who-do-we-need) to find your niche, or reach out on Slack on #zerobase-volunteers if not sure.
 3. Fill out the [contact form](https://tinyurl.com/zerobase-volunteer) so we can stay in touch and make sure you have access to all our 
 tools.
 4. Read the first section of [the README](./README.md) to familiarize yourself with our organization and mission
