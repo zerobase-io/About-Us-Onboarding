@@ -87,9 +87,6 @@ hire someone with a year of Comp Sci learning at a university or someone who's w
 alert: they'll always take the real-world experience! There's a reason that there's so many memes out there about entry-level software 
 positions requiring you already have been working in software for years; real-world experience is king in this industry.
 
-If you're ready to get started, reach out to of the following people on Slack:
-* Erik Sogn (Special Teams Lead)
-* Andrew Kaiser
 
 ### Medical Professionals
 *Urgent:* We need experienced professionals in the healthcare and/or biomedical arena to help us bridge the gap between cloud technology and boots on the ground.
