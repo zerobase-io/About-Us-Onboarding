@@ -57,10 +57,32 @@ provide this service with an unrivaled promise of privacy. Additionally, we're 1
 works or how your data is handled, you can view our source code directly.
 
 ## How can I help?
-Ready to jump in? [Here's our quickstart guide for technical and nontechnical contributors. Join us!](./CONTRIBUTING.md)
-Remember to join us at 5PM EDT for our daily worldwide All Hands call! Meet new friends, hear about our progress, become part of the team. Details on Slack.
+Ready to jump in?
+
+#### First, fill out our our volunteer form
+[Zerobase Volunteer Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSenbQaMHQTFyULEz7etYqM6X9sckrRwggbD5RMFqNpKT5AR4w/viewform)
+
+#### Next, join our slack using this link
+[Join the Zerobase Slack](https://join.slack.com/t/necsi-edu/shared_invite/zt-d86ge6g0-sgLKgyhRpFBJq2VrnJOdhg)
+
+#### Join a team! These are some channels to get you started:
+* [#zerobase-backend](https://necsi-edu.slack.com/archives/CV82ELK26)
+* [#zerobase-deployments](https://necsi-edu.slack.com/archives/C010MA2D7PU)
+* [#zerobase-frontend](https://necsi-edu.slack.com/archives/C010DL0BXKR)
+* [#zerobase-infra](https://necsi-edu.slack.com/archives/CV9UKU1HR)
+* [#zerobase-product](https://necsi-edu.slack.com/archives/C0105T4K0F2)
+
+#### Check out our GitHub!
+[Zerobase Developer Onboarding Documentation](https://github.com/zerobase-io/About-Us-Onboarding)
+[Here's our quickstart guide for technical and nontechnical contributors. Join us!](./CONTRIBUTING.md)
+
+#### Any questions? Get stuck?
+Email us at [info@zerobase.io](mailto://info@zerobase.io) or ask in [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ)
+
+Remember to join us at 1PM EDT for our daily worldwide All Hands call! Meet new friends, hear about our progress, become part of the team. Details on Slack.
 
 #### Relevant Links
 * [Zerobase GitHub Organization](https://github.com/zerobase-io)
-* [Volunteer Sign Up Sheet](https://tinyurl.com/zerobase-volunteer)
+* [Volunteer Registration Form](https://tinyurl.com/zerobase-volunteer)
 * [Zerobase Pitch Deck](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/zerobase-pitch.pdf)
+* [Contact Us](https://airtable.com/shrnYjRudkIBlXzr9) or email us at info@zerobase.io
