@@ -66,11 +66,12 @@ Ready to jump in?
 [Join the Zerobase Slack](https://join.slack.com/t/necsi-edu/shared_invite/zt-d86ge6g0-sgLKgyhRpFBJq2VrnJOdhg)
 
 #### Join a team! These are some channels to get you started:
-* [#zerobase-backend](https://necsi-edu.slack.com/archives/CV82ELK26)
-* [#zerobase-deployments](https://necsi-edu.slack.com/archives/C010MA2D7PU)
-* [#zerobase-frontend](https://necsi-edu.slack.com/archives/C010DL0BXKR)
-* [#zerobase-infra](https://necsi-edu.slack.com/archives/CV9UKU1HR)
-* [#zerobase-product](https://necsi-edu.slack.com/archives/C0105T4K0F2)
+* [#zerobase-general](https://necsi-edu.slack.com/archives/CV57RBU8H) - Our main channel
+* [#zerobase-backend](https://necsi-edu.slack.com/archives/CV82ELK26) - For backend developers
+* [#zerobase-deployments](https://necsi-edu.slack.com/archives/C010MA2D7PU) - For deploying in the real world
+* [#zerobase-frontend](https://necsi-edu.slack.com/archives/C010DL0BXKR) - For frontend developers, UX, and Medical
+* [#zerobase-infra](https://necsi-edu.slack.com/archives/CV9UKU1HR) - For infrastructure and DevSecOps
+* [#zerobase-product](https://necsi-edu.slack.com/archives/C0105T4K0F2) - Our main product channel
 
 #### Check out our GitHub!
 [Zerobase Developer Onboarding Documentation](https://github.com/zerobase-io/About-Us-Onboarding)
