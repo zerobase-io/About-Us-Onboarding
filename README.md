@@ -1,3 +1,6 @@
+![Zerobase Logo](./imgs/ZerobaseLogo.png "Zerobase Sample QR")
+
+
 # Zerobase
 Welcome! Zerobase is a free, privacy-first contact tracing platform that empowers individuals and local officials to stop the spread of COVID-19.
 
