@@ -9,14 +9,6 @@ Welcome! Zerobase is a free, privacy-first contact tracing platform that empower
 # About Us & Onboarding
 All things relating to our organization, the Zerobase project and how you can get involved!
 
-## Table of Contents
-* [Contact Tracing](#contact-tracing)
-* [How Does Zerobase Work?](#how-does-zerobase-work)
-* [How Can I Contribute to Zerobase?](#how-can-i-contribute-to-zerobase)
-    * [Relevant Links](#relevant-links)
-
-
-
 ## Contact Tracing
 Contact tracing is the identification of likely disease-spreading interaction between individuals. It is a crucial part of modern pandemic response. If an individual is exposed to COVID-19, tracing allows us to identify any number of others who were in the same place, such as a grocery store, pharmacy, place of worship, or doctor’s office, at the same time as the infected person. Public health officials can then notify those people to stay home temporarily and/or get tested themselves, thus slowing the spread of the virus.
 
