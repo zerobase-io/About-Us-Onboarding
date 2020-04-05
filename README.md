@@ -37,7 +37,7 @@ Zerobase is a simple and effective tracing solution that can be used anywhere. H
 
 5. Public health officials can identify the community touchpoints through which the virus seems to be spreading most rapidly. They can also notify the individuals who may have been exposed and advise them to self-quarantine, even before they exhibit symptoms.
 
-See more about our system [here](zerobase-bluf.pdf).
+To see more about our system, read our [nontechnical whitepaper](zerobase-bluf.pdf).
 ## How can I help?
 Ready to jump in?
 
