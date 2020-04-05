@@ -28,4 +28,4 @@ Benyam Capel
 Erik Sogn
 
 ### Legal
-Bianca Victoria Scott, Esq., NSCA CPT, PROnatal, Precision Nutriton, FMS
+Bianca Victoria Scott
