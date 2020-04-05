@@ -33,7 +33,7 @@ Zerobase is a simple and effective tracing solution that can be used anywhere. H
 1. Paper printouts with unique Zerobase QR codes are posted at the entrances and touchpoints of public locations like grocery store cash registers, restaurant entrances, pharmacies, and banks.
 
 2. People entering a participating location scan the code  – this is as simple as pointing a phone’s camera at the sign; it takes just a few seconds, and no app download is required. Here is an example code that you can scan right now:
-![Zerobase Sample QR](./imgs/sample_zerobase_qr.jpg "Zerobase Sample QR")
+![Zerobase Sample QR](./imgs/sample_zerobase_qr.jpg "Zerobase Sample QR" =250x)
 Individuals may choose to share their phone number in order to be notified by public health authorities (or automatically by Zerobase, if so desired) if they have been exposed. By default, no personal information is collected..
 
 3. If an individual receives a COVID-19 test, they are given a sheet of paper with a Zerobase QR code on it to scan as part of the intake process. Each code sheet is unique and anonymous. Batches of code sheets can be printed at testing centers or distributed to drive-through sites. Soon, we'll print these QR codes on stickers to place on the test kits themselves in order to match an anoymous trace network with a test result.
