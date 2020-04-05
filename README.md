@@ -11,8 +11,7 @@ All things relating to our organization, the Zerobase project and how you can ge
 
 ## Table of Contents
 * [Contact Tracing](#contact-tracing)
-* [How Do I Use Zerobase?](#how-do-i-use-zerobase)
-* [How is Zerobase Implemented?](#how-is-zerobase-implemented)
+* [How Does Zerobase Work?](#how-does-zerobase-work)
 * [How Can I Contribute to Zerobase?](#how-can-i-contribute-to-zerobase)
     * [Relevant Links](#relevant-links)
 
@@ -45,24 +44,6 @@ Zerobase is a simple and effective tracing solution that can be used anywhere. H
 4. Zerobase anonymously analyzes community networks of interaction to identify people who visited the same places at roughly the same times. It then links an individual who has been tested to the individuals that they were near to construct a list of individuals that may have been exposed.
 
 5. Public health officials can identify the community touchpoints through which the virus seems to be spreading most rapidly. They can also notify the individuals who may have been exposed and advise them to self-quarantine, even before they exhibit symptoms.
-
-
-## How Do I Use Zerobase?
-Zerobase is designed to be as easy as possible for new users to integrate into their routines, and requires very little training and
-almost zero technical know-how. The user needs only to do three things:
-
-1. Register themselves with Zerobase simply by visiting [our website](https://zerobase.io) on a mobile device (first use only)
-2. Scan Zerobase QR codes whenever they encounter them (takes under two seconds!)
-3. Occassionally, check back at [our website](https://zerobase.io) for any new notifications. Additionally, users can subscribe to one
-of our direct messaging systems (SMS, email, push notifications), but this is not required!
-
-That's it! Zerobase is fast and easy to use by design. With practice, pulling out your phone and scanning a QR code can be done in under
-two seconds, requiring very minimal disruption to the user's day.
-
-## How Is Zerobase Implemented?
-If you're curious how Zerobase works and want to learn more, see [our privacy statement](./PRIVACY.md) for the specifics of how we 
-provide this service with an unrivaled promise of privacy. Additionally, we're 100% open-source, so if you want to see how something 
-works or how your data is handled, you can view our source code directly.
 
 ## How can I help?
 Ready to jump in?
