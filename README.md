@@ -62,10 +62,9 @@ Ready to jump in?
 #### Any questions? Get stuck?
 Email us at [info@zerobase.io](mailto://info@zerobase.io) or ask in [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ)
 
-Remember to join us at 1PM EDT for our daily worldwide All Hands call! Meet new friends, hear about our progress, become part of the team. Details on Slack.
+Remember to join us at 4PM EDT for our daily worldwide All Hands call! Meet new friends, hear about our progress, become part of the team. Details on Slack.
 
 #### Relevant Links
 * [Zerobase GitHub Organization](https://github.com/zerobase-io)
 * [Volunteer Registration Form](https://tinyurl.com/zerobase-volunteer)
-* [Zerobase Pitch Deck](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/zerobase-pitch.pdf)
 * [Contact Us](https://airtable.com/shrnYjRudkIBlXzr9) or email us at info@zerobase.io
