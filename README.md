@@ -1,6 +1,5 @@
 # Zerobase
-Zerobase is a smart, anonymous tracing technology that identifies and notifies individuals in our communities who have been exposed to 
-COVID-19, even before they exhibit symptoms. Zerobase is simple, free, and ready to use.
+Welcome! Zerobase is a free, privacy-first contact tracing platform that empowers individuals and local officials to stop the spread of COVID-19.
 
 [Join us](https://tinyurl.com/zerobase-volunteer) in our fight to end COVID-19.
 
@@ -17,26 +16,31 @@ All things relating to our organization, the Zerobase project and how you can ge
 
 
 ## Contact Tracing
-Tracing is the identification of likely disease-spreading interaction between individuals. It is a crucial part of modern pandemic 
-response.
+Contact tracing is the identification of likely disease-spreading interaction between individuals. It is a crucial part of modern pandemic response. If an individual is exposed to COVID-19, tracing allows us to identify any number of others who were in the same place, such as a grocery store, pharmacy, place of worship, or doctor’s office, at the same time as the infected person. Public health officials can then notify those people to stay home temporarily and/or get tested themselves, thus slowing the spread of the virus.
 
-If an individual is exposed to COVID-19, tracing allows us to identify any number of others who were in the same place, such as a 
-grocery store, pharmacy, place of worship, or doctor’s office, at the same time as the infected person. Public health officials can then 
-notify those people to stay home temporarily and/or get tested themselves, thus slowing the spread of the virus.
+To contain COVID-19, communities must engage in both effective testing and tracing. While tests are scarce, we can respond by using contact tracing as soon as possible. Zerobase maximizes the value of each test by leveraging that test not only to treat an individual, but to identify the hundreds of untested members of a community who are at risk of infection based on their proximity to an exposed individual.
 
-To contain COVID-19, communities must engage in both effective tracing and testing measures. However, while testing is currently limited 
-and we await the mass-manufacture of test kits, we can best prepare by using a tracing system in our communities as soon as possible. 
-Tracing maximizes the value of every single test by helping identify the hundreds of untested members of a community that are at risk of 
-infection based on their proximity to an infected individual.
 
 ## How Does Zerobase Work?
 
 We have developed a simple and effective tracing solution that is ready to be used in any community. Here’s how it works:
 
-1. Paper printouts with unique Zerobase QR codes are posted at the entrances of high-risk touchpoints like grocery stores, restaurants, pharmacies, doctor's offices, and places of worship.
-2. People entering a participating location scan the code (for most people, this is as simple as pointing their phone’s camera at the sign - it takes just a few seconds, and no app installation required). 
-3. Zerobase’s tracing technology anonymously analyzes community networks of interaction to identify people who visited the same place at roughly the same time. 
-4. If an individual tests positive for COVID-19, public health officials can use Zerobase to direct anyone who has been in their presence to self-quarantine and/or get tested.
+Zerobase is a simple and effective tracing solution that can be used anywhere. Here’s how it works:
+
+1. Paper printouts with unique Zerobase QR codes are posted at the entrances and touchpoints of public locations like grocery store cash registers, restaurant entrances, pharmacies, and banks.
+
+2. People entering a participating location scan the code  – this is as simple as pointing a phone’s camera at the sign; it takes just a few seconds, and no app download is required. Here is an example code that you can scan right now:
+
+![Zerobase Sample QR](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Zerobase Sample QR")
+
+
+Individuals may choose to share their phone number in order to be notified by public health authorities (or automatically by Zerobase, if so desired) if they have been exposed. By default, no personal information is collected..
+
+3. If an individual receives a COVID-19 test, they are given a sheet of paper with a Zerobase QR code on it to scan as part of the intake process. Each code sheet is unique and anonymous. Batches of code sheets can be printed at testing centers or distributed to drive-through sites. Soon, we'll print these QR codes on stickers to place on the test kits themselves in order to match an anoymous trace network with a test result.
+
+4. Zerobase anonymously analyzes community networks of interaction to identify people who visited the same places at roughly the same times. It then links an individual who has been tested to the individuals that they were near to construct a list of individuals that may have been exposed.
+
+5. Public health officials can identify the community touchpoints through which the virus seems to be spreading most rapidly. They can also notify the individuals who may have been exposed and advise them to self-quarantine, even before they exhibit symptoms.
 
 
 ## How Do I Use Zerobase?
