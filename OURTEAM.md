@@ -24,5 +24,8 @@ Gary Chizever, M.D.
 ### Outreach
 Benyam Capel
 
-### Special Teams
+### Deployments
 Erik Sogn
+
+### Legal
+Bianca Victoria Scott
