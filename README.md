@@ -36,7 +36,7 @@ Zerobase is a simple and effective tracing solution that can be used anywhere. H
 
 <p align="center">
     <img src="./imgs/sample_zerobase_qr.jpg" width="250" height="250">
-</p>. 
+</p>  
 
    Individuals may choose to share their phone number in order to be notified by public health authorities (or automatically by Zerobase, if so desired) if they have been exposed. By default, no personal information is collected.  
 
