@@ -33,7 +33,10 @@ Zerobase is a simple and effective tracing solution that can be used anywhere. H
 1. Paper printouts with unique Zerobase QR codes are posted at the entrances and touchpoints of public locations like grocery store cash registers, restaurant entrances, pharmacies, and banks.
 
 2. People entering a participating location scan the code  – this is as simple as pointing a phone’s camera at the sign; it takes just a few seconds, and no app download is required. Here is an example code that you can scan right now:
-<img src="./imgs/sample_zerobase_qr.jpg" width="250" height="250">
+
+<p align="center">
+    <img src="./imgs/sample_zerobase_qr.jpg" width="250" height="250">
+</p>
 
 Individuals may choose to share their phone number in order to be notified by public health authorities (or automatically by Zerobase, if so desired) if they have been exposed. By default, no personal information is collected..
 
