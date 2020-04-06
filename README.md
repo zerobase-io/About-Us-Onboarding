@@ -17,8 +17,6 @@ To contain COVID-19, communities must engage in both effective testing and traci
 
 ## How Does Zerobase Work?
 
-We have developed a simple and effective tracing solution that is ready to be used in any community. Here’s how it works:
-
 Zerobase is a simple and effective tracing solution that can be used anywhere. Here’s how it works:
 
 1. Paper printouts with unique Zerobase QR codes are posted at the entrances and touchpoints of public locations like grocery store cash registers, restaurant entrances, pharmacies, and banks.
