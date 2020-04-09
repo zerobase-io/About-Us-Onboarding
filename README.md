@@ -81,15 +81,15 @@ Ready to jump in?
 [Here's our quickstart guide for technical and nontechnical contributors. Join us!](./CONTRIBUTING.md)
 
 #### Product Development Process
-# Adding/Changing features?
-# Add a story to our product backlog
+Adding/Changing features?
 
-Story->Backlog
-Backlog-> Prioritisation and grooming by PM
-Prioritsation-> Design with UX / UI / Product Designer 
-Design - > Dev
-Dev -> QA
-https://github.com/orgs/zerobase-io/projects/5
+1. Add a story to our product backlog here https://github.com/orgs/zerobase-io/projects/5
+2. Story->Backlog
+3. Backlog-> Prioritisation and grooming by PM
+4. Prioritsation-> Design with UX / UI / Product Designer 
+5. Design - > Dev
+6. Dev -> QA
+
 
 
 #### Any questions? Get stuck?
