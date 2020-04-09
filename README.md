@@ -81,8 +81,9 @@ Ready to jump in?
 [Here's our quickstart guide for technical and nontechnical contributors. Join us!](./CONTRIBUTING.md)
 
 #### Product Development Process
-Adding/Changing features?
-Add a story to our product backlog
+# Adding/Changing features?
+# Add a story to our product backlog
+
 Story->Backlog
 Backlog-> Prioritisation and grooming by PM
 Prioritsation-> Design with UX / UI / Product Designer 
