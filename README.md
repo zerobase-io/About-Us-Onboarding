@@ -80,6 +80,17 @@ Ready to jump in?
 [Zerobase Developer Onboarding Documentation](https://github.com/zerobase-io/About-Us-Onboarding)
 [Here's our quickstart guide for technical and nontechnical contributors. Join us!](./CONTRIBUTING.md)
 
+#### Product Development Process
+Adding/Changing features?
+Add a story to our product backlog
+Story->Backlog
+Backlog-> Prioritisation and grooming by PM
+Prioritsation-> Design with UX / UI / Product Designer 
+Design - > Dev
+Dev -> QA
+https://github.com/orgs/zerobase-io/projects/5
+
+
 #### Any questions? Get stuck?
 Email us at [info@zerobase.io](mailto://info@zerobase.io) or ask in [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ)
 
