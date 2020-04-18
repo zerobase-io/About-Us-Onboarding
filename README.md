@@ -29,7 +29,7 @@ Zerobase is a simple and effective tracing solution that can be used anywhere. H
 
    Individuals may choose to share their phone number in order to be notified by public health authorities (or automatically by Zerobase, if so desired) if they have been exposed. By default, no personal information is collected.  
 
-3. If an individual receives a COVID-19 test, they are given a sheet of paper with a Zerobase QR code on it to scan as part of the intake process. Each code sheet is unique and anonymous. Batches of code sheets can be printed at testing centers or distributed to drive-through sites. Soon, we'll print these QR codes on stickers to place on the test kits themselves in order to match an anoymous trace network with a test result.
+3. If an individual receives a COVID-19 test, they are given a sheet of paper or a sticker with a Zerobase QR code on it to scan as part of the intake process. Each code is unique and anonymous. Batches of code sheets can be printed at testing centers or distributed to drive-through sites. Then, a medical practitioner can scan the same code when a test result comes in to link the individual's anonymous trace with the test.
 
 4. Zerobase anonymously analyzes community networks of interaction to identify people who visited the same places at roughly the same times. It then links an individual who has been tested to the individuals that they were near to construct a list of individuals that may have been exposed.
 
