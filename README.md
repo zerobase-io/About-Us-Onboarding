@@ -64,14 +64,7 @@ You know how every job you've applied to tells you that you'll make an immediate
 
 ### Registration
 
-#### First, fill out our volunteer registration form if you haven't already
-[Zerobase Volunteer Registration Form](https://airtable.com/shrLF5neOHKjsSkjD)
-
-#### Next, join our slack using this link
-[Join the Zerobase Slack](https://join.slack.com/t/necsi-edu/shared_invite/zt-d86ge6g0-sgLKgyhRpFBJq2VrnJOdhg)
-
-#### Introduce yourself!
-Introduce yourself in [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ)
+First, fill out our [Volunteer Registration Form](https://airtable.com/shrLF5neOHKjsSkjD) if you haven't already, [Join the Zerobase Slack](https://join.slack.com/t/necsi-edu/shared_invite/zt-d86ge6g0-sgLKgyhRpFBJq2VrnJOdhg), and introduce yourself in [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ)
 
 #### Here our our main channels to get you started:
 * [#zerobase-general](https://necsi-edu.slack.com/archives/CV57RBU8H) - Our main channel
@@ -79,7 +72,7 @@ Introduce yourself in [#zerobase-volunteers](https://necsi-edu.slack.com/archive
 * [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ) - Our main volunteers channel
 
 ## Joining a Team and Contributing
-Zerobase exists across 13 time zones and development and we use a decentralized team of teams structure. Want to contribute? Join a team and let us know how you would like to contribute and we will see how you can best fit to make an impact!
+Zerobase exists across 13 time zones and development and we use a decentralized team of teams structure. The best way to bring your best is to join a team, let us know how you would like to contribute, and we will see how you can make an impact!
 
 Read our [Product Roadmap](https://github.com/zerobase-io/smart-tracing/wiki/Product-Roadmap) for up to date information of our current engineering focus - find out our biggest priority today, and what's coming next.
 
@@ -91,23 +84,42 @@ Join our All Hands Meeting on Zoom every Tuesday, Wednesday and Saturday at 3:00
 DBAs, Sys admins, CI/CD pros, NodeJS devs, Express experts, here's your home. Data scientists too!
 Your team lead is David Harris, and your Slack channel is [#zerobase-backend](https://necsi-edu.slack.com/archives/CV82ELK26)
 
+#### CRM Team
+Design, Create, Integrate, Automate, and Run the Customer Relationship Management system that runs our outreach, live deployments, and volunteer efforts.
+
+Your team lead is Ed Kraay, your Slack Channel is [#zerobase-crm](https://necsi-edu.slack.com/archives/C01219CJJHJ), and here is your (CRM Team Guide)[https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-crm.md]
+
+#### Design Team
+Your slack channel is (#zerobase-design)[https://necsi-edu.slack.com/archives/C010M0HCLSZ]
+
 #### Deployments Team
 Validated learning experts, user research gurus, iterative feedback afficionadoes. These people see to it that Zerobase is successful and improving on the ground. They also manage our support systems and ensure that problems get solved immediately.
+
 Your team lead is Erik Sogn, your Slack channel is [#zerobase-deployments](https://necsi-edu.slack.com/archives/C010MA2D7PU), and here is your (Deployments Team Guide)[https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-deployments.md]
 
 #### Frontend - Design, UI/UX, and Medical
 Web devs, mobile moguls, UI/UX experts, we especially need your help. We're so glad to have you!
+
 Your team lead is John Lo, and your Slack channel is [#zerobase-frontend](https://necsi-edu.slack.com/archives/C010DL0BXKR).
 
 #### Infrastructure and Operational Security
 DevOps, OpSec, K8s, and all the other fun shorthands - they live here!
+
 Your team lead is Jason Spriggs, and your Slack channel is [#zerobase-infra](https://necsi-edu.slack.com/archives/CV9UKU1HR).
+
+#### Medical Team
+We need experienced professionals in the healthcare and/or biomedical arena to help us bridge the gap between cloud technology and boots on the ground. Save lives by bringing about more effective rapid case identification and containment. Whether your expertise is running a gel or running an ICU, your knowledge is needed to help bring this system online quickly and to ensure best clinical utility.
+
+Your team lead is Chris Lee and your slack channel is (#zerobase-medical)[https://necsi-edu.slack.com/archives/C011C9V9DQF]
 
 #### Product Team
 Product and product managers, Jira jedi, and anyone else who considers organization to be a strong-point - your expertise is needed here.
+
 Your team lead is Colm Byrne, your Slack channel is [#zerobase-product](https://necsi-edu.slack.com/archives/C0105T4K0F2), and here is your (Product Team Guide)[https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-product.md].
 
 #### Volunteer Coordination Team
+Ensure volutneers join our project, get to the right place, and bring their best! Do you like to meet new people and set them up to win?
+
 Your team lead is Erik Sogn, your Slack Channel is [#zerobase-volunteer-coordination](https://necsi-edu.slack.com/archives/G0104HE1JP4), and here is your [Volunteer Coordination Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-volunteer-coordination.md)
 
 # Any questions? Get stuck?
