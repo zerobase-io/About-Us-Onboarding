@@ -134,9 +134,9 @@ Ensure volutneers join our project, get to the right place, and bring their best
 * [Volunteer Coordination Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-volunteer-coordination.md)
 
 #### Leadership Team
-Are you passionate for organizational leadership theory and putting it into practice? Are you a technical founder or team builder? Are you committed to leading a team? Let us know.
+Are you passionate for organizational leadership theory and putting it into practice? Are you a technical founder or team builder? Are you committed to leading a team? Let us know. Want a high level view of what each team is focusing on? Check in here.
 * Team lead: Aron Szanto
-* Slack: [#zerobase-volunteer-coordination](https://necsi-edu.slack.com/archives/G0104HE1JP4)
+* Trello: [Leadership Trello](https://trello.com/b/7aDrFCR2/leadership)
 
 # Any questions? Get stuck? Want to contribute and don't know where to start?
 Email us at [info@zerobase.io](mailto://info@zerobase.io), ask in [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ), or use our [Contact Us](https://airtable.com/shrnYjRudkIBlXzr9) form.
