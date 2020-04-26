@@ -28,9 +28,9 @@ Check our airtable! Are there volunteers who arn't on a team or haven't been mar
 ### Improve volunteer coordination
 Got any ideas to improve onboarding, documentation, our CRM, or our process? Let us know in #zerobase-volunteers
 
-# We are looking for
+## We are looking for
 We are looking for members to join the volunteer coordination team to improve volutneer coordination, and to be volunteer buddies and ambassadors for new volunteers and help them find the right place to contribute. Erik is looking for a lead of volunteer coordination to take over so he can focus on deployments.
 
-# Resources
+## Resources
 * [Airtable](https://airtable.com/tbl7FW1yukl3kBvRP/viw5k8lpO4iJ4T2iJ)
 * [Trello](https://trello.com/b/0iffx6o6/volunteer-coordination)
