@@ -72,11 +72,15 @@ First, fill out our [Volunteer Registration Form](https://airtable.com/shrLF5neO
 * [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ) - Our main volunteers channel
 
 ## Join a Team and Contribute
-Zerobase exists across 13 time zones and development and we use a decentralized team of teams structure. The best way to bring your best is to join a team, let us know how you would like to contribute, and we will see how you can make an impact!
+Zerobase exists across 13 time zones and development and we use a decentralized team of teams structure. The best way to bring your best is to introduce yourself, join a team, partner up - and self start! Let us know how you would like to contribute, and we will support you in creating an impact!
+
+### Get Involved
 
 Read our [Zerobase Product Roadmap](https://github.com/zerobase-io/smart-tracing/wiki/Product-Roadmap) for up to date information of our current engineering focus - find out our biggest priority today, and what's coming next.
 
 Join our All Hands Meeting on Zoom every Tuesday, Wednesday and Saturday at 3:00 PM EST. Find the link every day on [#zerobase-general](https://necsi-edu.slack.com/archives/CV57RBU8H).
+
+### Our Teams - Join as many as you choose!
 
 #### Backend and Database Team
 DBAs, Sys admins, CI/CD pros, NodeJS devs, Express experts, here's your home. Data scientists too!
@@ -131,7 +135,7 @@ Ensure volutneers join our project, get to the right place, and bring their best
 * Slack: [#zerobase-volunteer-coordination](https://necsi-edu.slack.com/archives/G0104HE1JP4)
 * [Volunteer Coordination Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-volunteer-coordination.md)
 
-# Any questions? Get stuck?
+# Any questions? Get stuck? Want to contribute and don't know where to start?
 Email us at [info@zerobase.io](mailto://info@zerobase.io), ask in [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ), or use our [Contact Us](https://airtable.com/shrnYjRudkIBlXzr9) form.
 
 # Links and Resources
