@@ -116,7 +116,7 @@ We need experienced professionals in the healthcare and/or biomedical arena to h
 * Slack: [#zerobase-medical](https://necsi-edu.slack.com/archives/C011C9V9DQF)
 
 #### Outreach Team
-Grow zerobase by reaching and connecting us with invididuals, organizations, political leads, and movements that will forward our mission of saving lives by creating new opportunities for zerobase.
+Grow zerobase by reaching and connecting us with invididuals, organizations, political leads, and movements that will forward our mission of saving lives by creating new opportunities for zerobase. If you have experience in law, communication, policy, social media, marketing, writing, or can recommend someone who does, we'd love to have your help in tackling this pandemic.
 * Team lead: Bianca
 * Slack: [#zerobase-outreach](https://necsi-edu.slack.com/archives/C011KJJH1NJ)
 * [Onboarding Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-onboarding.md)
@@ -134,7 +134,7 @@ Ensure volutneers join our project, get to the right place, and bring their best
 * [Volunteer Coordination Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-volunteer-coordination.md)
 
 #### Leadership Team
-Are you passionate for organizational leadership theory and putting it into practice? Is your home base 
+Are you passionate for organizational leadership theory and putting it into practice? Are you a technical founder or team builder? Are you committed to leading a team? Let us know.
 * Team lead: Aron Szanto
 * Slack: [#zerobase-volunteer-coordination](https://necsi-edu.slack.com/archives/G0104HE1JP4)
 
