@@ -1,10 +1,10 @@
 # Product Team
 
 ### Our Mission
-Our mission on product coordination team is to create a results-driven development process that validates our core value propositions.
+Our mission is to build and deploy a QR based inclusive, private platform to be used as widely as possible.
 
 ### Roadmap
-Our current goal is to create our self-reporting feature set, followed closely by hospital integration.
+See the roadmap on the wiko
 
 ### Onboarding
 * Join GitHub and [our smart-tracing repo](https://github.com/zerobase-io/smart-tracing)
