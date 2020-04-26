@@ -1,12 +1,12 @@
 # Deployments Team
 
-## Our Mission
+### Our Mission
 Our mission is to oversee and run on the ground deployments to businesses, communities, testing facilities, and public health officials. 
 
-## Roadmap
+### Roadmap
 We are wrapping up our first deployments push to Manchester, and gearing up for our next push. This means improving our materials, CRM, and call scripts.
 
-## Onboarding
+### Onboarding
 * Join our [#zerobase-deployments](https://necsi-edu.slack.com/archives/C010MA2D7PU)
 * Join our [Trello](https://trello.com/b/O0NOaADp/deployments) to see work in progress
 * Ask Erik Sogn for access and instructions for our Phone System to make calls
