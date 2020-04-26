@@ -82,6 +82,7 @@ Join our All Hands Meeting on Zoom every Tuesday, Wednesday and Saturday at 3:00
 
 #### Backend and Database
 DBAs, Sys admins, CI/CD pros, NodeJS devs, Express experts, here's your home. Data scientists too!
+
 Your team lead is David Harris, and your Slack channel is [#zerobase-backend](https://necsi-edu.slack.com/archives/CV82ELK26)
 
 #### CRM Team
