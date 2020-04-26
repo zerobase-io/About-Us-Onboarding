@@ -90,12 +90,12 @@ Design, Create, Integrate, Automate, and Run the Customer Relationship Managemen
 Your team lead is Ed Kraay, your Slack Channel is [#zerobase-crm](https://necsi-edu.slack.com/archives/C01219CJJHJ), and here is your (CRM Team Guide)[https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-crm.md]
 
 #### Design Team
-Your slack channel is (#zerobase-design)[https://necsi-edu.slack.com/archives/C010M0HCLSZ]
+Your slack channel is [#zerobase-design](https://necsi-edu.slack.com/archives/C010M0HCLSZ)
 
 #### Deployments Team
 Validated learning experts, user research gurus, iterative feedback afficionadoes. These people see to it that Zerobase is successful and improving on the ground. They also manage our support systems and ensure that problems get solved immediately.
 
-Your team lead is Erik Sogn, your Slack channel is [#zerobase-deployments](https://necsi-edu.slack.com/archives/C010MA2D7PU), and here is your (Deployments Team Guide)[https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-deployments.md]
+Your team lead is Erik Sogn, your Slack channel is [#zerobase-deployments](https://necsi-edu.slack.com/archives/C010MA2D7PU), and here is your [Deployments Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-deployments.md)
 
 #### Frontend - Design, UI/UX, and Medical
 Web devs, mobile moguls, UI/UX experts, we especially need your help. We're so glad to have you!
@@ -110,12 +110,12 @@ Your team lead is Jason Spriggs, and your Slack channel is [#zerobase-infra](htt
 #### Medical Team
 We need experienced professionals in the healthcare and/or biomedical arena to help us bridge the gap between cloud technology and boots on the ground. Save lives by bringing about more effective rapid case identification and containment. Whether your expertise is running a gel or running an ICU, your knowledge is needed to help bring this system online quickly and to ensure best clinical utility.
 
-Your team lead is Chris Lee and your slack channel is (#zerobase-medical)[https://necsi-edu.slack.com/archives/C011C9V9DQF]
+Your team lead is Chris Lee and your slack channel is [#zerobase-medical](https://necsi-edu.slack.com/archives/C011C9V9DQF)
 
 #### Product Team
 Product and product managers, Jira jedi, and anyone else who considers organization to be a strong-point - your expertise is needed here.
 
-Your team lead is Colm Byrne, your Slack channel is [#zerobase-product](https://necsi-edu.slack.com/archives/C0105T4K0F2), and here is your (Product Team Guide)[https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-product.md].
+Your team lead is Colm Byrne, your Slack channel is [#zerobase-product](https://necsi-edu.slack.com/archives/C0105T4K0F2), and here is your [Product Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-product.md).
 
 #### Volunteer Coordination Team
 Ensure volutneers join our project, get to the right place, and bring their best! Do you like to meet new people and set them up to win?
