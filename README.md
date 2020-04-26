@@ -57,7 +57,7 @@ Fundamentally, location tracking is both ineffective and unnecessary. Putting pr
 #### Collaborations
 We fully expect that the eventual technical system that will be most effective for virtual contact tracing is a consortium solution, combining proximity, GPS, and touchpoint-based mechanisms (like ours). We have designed our system and models from the ground up to be able to quickly integrate with any other application that may provide helpful information. For example, we can easily ingest proximity events into our model by strengthening the affinity between nodes that were in the same place around the same time (per our touchpoint checkins) if we know that they were actually just a few meters apart via bluetooth. If you're working on another modality of contact tracing and want to team up to beat COVID-19, drop us a line at info@zerobase.io!
 
-# Volunteering
+# Volunteering and Contributing
 We're so happy to have you! Where governments are unable or unwilling to adequately test people for CoV-SARS-2, we're here to bridge the gap by enabling even resource-poor communities to utilize advanced tracing techniques to contain infections.
 
 You know how every job you've applied to tells you that you'll make an immediate impact? We don't even need to tell you how your contributions will matter, the value proposition of spending even a few hours contributing to a platform that is saving lives now speaks for itself. An investment of a few hours of your time will be directly responsible for eliminating days or weeks of unnecessary human suffering. So let's get to it!
@@ -74,62 +74,67 @@ First, fill out our [Volunteer Registration Form](https://airtable.com/shrLF5neO
 ## Join a Team and Contribute
 Zerobase exists across 13 time zones and development and we use a decentralized team of teams structure. The best way to bring your best is to join a team, let us know how you would like to contribute, and we will see how you can make an impact!
 
-Read our [Product Roadmap](https://github.com/zerobase-io/smart-tracing/wiki/Product-Roadmap) for up to date information of our current engineering focus - find out our biggest priority today, and what's coming next.
+Read our [Zerobase Product Roadmap](https://github.com/zerobase-io/smart-tracing/wiki/Product-Roadmap) for up to date information of our current engineering focus - find out our biggest priority today, and what's coming next.
 
 Join our All Hands Meeting on Zoom every Tuesday, Wednesday and Saturday at 3:00 PM EST. Find the link every day on [#zerobase-general](https://necsi-edu.slack.com/archives/CV57RBU8H).
 
 #### Backend and Database Team
 DBAs, Sys admins, CI/CD pros, NodeJS devs, Express experts, here's your home. Data scientists too!
-
-Your team lead is David Harris, and your Slack channel is [#zerobase-backend](https://necsi-edu.slack.com/archives/CV82ELK26)
+* Team lead: David Harris
+* Slack: [#zerobase-backend](https://necsi-edu.slack.com/archives/CV82ELK26)
 
 #### CRM Team
 Design, Create, Integrate, Automate, and Run the Customer Relationship Management system that runs our outreach, live deployments, and volunteer efforts.
-
-Your team lead is Ed Kraay, your Slack Channel is [#zerobase-crm](https://necsi-edu.slack.com/archives/C01219CJJHJ), and here is your [CRM Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-crm.md)
+* Team lead: Ed Kraay
+* Slack: [#zerobase-crm](https://necsi-edu.slack.com/archives/C01219CJJHJ)
+* [CRM Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-crm.md)
 
 #### Design Team
-Your slack channel is [#zerobase-design](https://necsi-edu.slack.com/archives/C010M0HCLSZ)
+* Slack: [#zerobase-design](https://necsi-edu.slack.com/archives/C010M0HCLSZ)
 
 #### Deployments Team
 Validated learning experts, user research gurus, iterative feedback afficionadoes. These people see to it that Zerobase is successful and improving on the ground. They also manage our support systems and ensure that problems get solved immediately.
-
-Your team lead is Erik Sogn, your Slack channel is [#zerobase-deployments](https://necsi-edu.slack.com/archives/C010MA2D7PU), and here is your [Deployments Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-deployments.md)
+* Team lead: Erik Sogn
+* Slack: [#zerobase-deployments](https://necsi-edu.slack.com/archives/C010MA2D7PU)
+* [Deployments Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-deployments.md)
 
 #### Frontend Team - Design, UI/UX, and Medical
 Web devs, mobile moguls, UI/UX experts, we especially need your help. We're so glad to have you!
-
-Your team lead is John Lo, and your Slack channel is [#zerobase-frontend](https://necsi-edu.slack.com/archives/C010DL0BXKR).
+* Team lead: John Lo
+* Slack: [#zerobase-frontend](https://necsi-edu.slack.com/archives/C010DL0BXKR).
 
 #### Infrastructure and Operational Security Team
 DevOps, OpSec, K8s, and all the other fun shorthands - they live here!
-
-Your team lead is Jason Spriggs, and your Slack channel is [#zerobase-infra](https://necsi-edu.slack.com/archives/CV9UKU1HR).
+* Team lead: Jason Spriggs
+* Slack: [#zerobase-infra](https://necsi-edu.slack.com/archives/CV9UKU1HR).
 
 #### Medical Team
 We need experienced professionals in the healthcare and/or biomedical arena to help us bridge the gap between cloud technology and boots on the ground. Save lives by bringing about more effective rapid case identification and containment. Whether your expertise is running a gel or running an ICU, your knowledge is needed to help bring this system online quickly and to ensure best clinical utility.
-
-Your team lead is Chris Lee and your slack channel is [#zerobase-medical](https://necsi-edu.slack.com/archives/C011C9V9DQF)
+* Team lead: Chris Lee
+* Slack: [#zerobase-medical](https://necsi-edu.slack.com/archives/C011C9V9DQF)
 
 #### Outreach Team
 Grow zerobase by reaching and connecting us with invididuals, organizations, political leads, and movements that will forward our mission of saving lives by creating new opportunities for zerobase.
-
-Your team lead is Bianca and your slack channel is [#zerobase-outreach](https://necsi-edu.slack.com/archives/C011KJJH1NJ)
+* Team lead: Bianca
+* Slack: [#zerobase-outreach](https://necsi-edu.slack.com/archives/C011KJJH1NJ)
+* [Onboarding Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-onboarding.md)
 
 #### Product Team
 Product and product managers, Jira jedi, and anyone else who considers organization to be a strong-point - your expertise is needed here.
-
-Your team lead is Colm Byrne, your Slack channel is [#zerobase-product](https://necsi-edu.slack.com/archives/C0105T4K0F2), and here is your [Product Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-product.md).
+* Team lead: Colm Byrne
+* Slack: [#zerobase-product](https://necsi-edu.slack.com/archives/C0105T4K0F2)
+* [Product Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-product.md)
 
 #### Volunteer Coordination Team
 Ensure volutneers join our project, get to the right place, and bring their best! Do you like to meet new people and set them up to win?
-
-Your team lead is Erik Sogn, your Slack Channel is [#zerobase-volunteer-coordination](https://necsi-edu.slack.com/archives/G0104HE1JP4), and here is your [Volunteer Coordination Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-volunteer-coordination.md)
+* Team lead: Erik Sogn
+* Slack: [#zerobase-volunteer-coordination](https://necsi-edu.slack.com/archives/G0104HE1JP4)
+* [Volunteer Coordination Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-volunteer-coordination.md)
 
 # Any questions? Get stuck?
-Email us at [info@zerobase.io](mailto://info@zerobase.io), ask in [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ), or [Contact Us](https://airtable.com/shrnYjRudkIBlXzr9)
+Email us at [info@zerobase.io](mailto://info@zerobase.io), ask in [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ), or use our [Contact Us](https://airtable.com/shrnYjRudkIBlXzr9) form.
 
 # Links and Resources
 * [Zerobase Volunteer Homepage](https://zerobase.io/volunteer)
+* [Zerobase Product Roadmap](https://github.com/zerobase-io/smart-tracing/wiki/Product-Roadmap)
 * [Zerobase GitHub Organization](https://github.com/zerobase-io)
-
