@@ -7,15 +7,15 @@ Our mission on product coordination team is to create a results-driven developme
 Our current goal is to create our self-reporting feature set, followed closely by hospital integration.
 
 ### Onboarding
-* Join GitHub and (our smart-tracing repo)[https://github.com/zerobase-io/smart-tracing]
+* Join GitHub and [our smart-tracing repo](https://github.com/zerobase-io/smart-tracing)
 * Join [#zerobase-product](https://necsi-edu.slack.com/archives/C0105T4K0F2)
-* Read John Lo's (product onboarding guide)[]
+* Read John Lo's [product onboarding guide]()
 * How to set up, build and run our product locally, etc
 
 ## Contributing
 
 ### Creating a new issue or product feature request
-1. Create a (github issue)[https://github.com/zerobase-io/smart-tracing/issues/new]
+1. Create a [github issue](https://github.com/zerobase-io/smart-tracing/issues/new)
 2. Assign this issue to the project "Frontend - Requests"
 3. Ask in [#zerobase-product](https://necsi-edu.slack.com/archives/C0105T4K0F2) for your issue to be groomed by a project manager
 4. We will prioritize your issue and design it with UX / UI / Product Designer 
@@ -37,6 +37,6 @@ Our current goal is to create our self-reporting feature set, followed closely b
 
 ## Links and Resources
 * [#zerobase-product](https://necsi-edu.slack.com/archives/C0105T4K0F2)
-* (Our GitHub Project)[https://github.com/orgs/zerobase-io/projects/5]
-* (Onboarding guide goes here)
-* (Google Docs go here)
+* [Our GitHub Project](https://github.com/orgs/zerobase-io/projects/5)
+* [Onboarding guide goes here]()
+* [Google Docs go here]()
