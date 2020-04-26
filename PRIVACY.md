@@ -1,9 +1,19 @@
-# Introduction
+# Privacy First
+### Zerobase is designed from the ground up to put your privacy first.
+Unlike other contact tracing mechanisms developed so far, Zerobase does not track GPS locations or require downloading an application to your phone.
+
+Instead, our QR network securely and privately traces the spread of COVID-19 throughout a community without tracking your personal identity or your location at all hours of the day.
+
+### Zerobase was built to help real people.
+If you would like to be notified if you may have been exposed to COVID-19, you may voluntarily and securely store your phone number.
+
+Any information provided is encrypted and used only to keep you informed.
+
+### We firmly believe in Big Data without Big Brother
+We do not work with advertisers. We do not sell your information. We adhere to industrial standards of data security.
+
+# Our Privacy Policy
 Zerobase Foundation (“Zerobase”) is committed to protecting your privacy. This privacy policy was created in order to demonstrate Zerobase’s prioritization of your privacy as a user of the Zerobase platform (the “Platform”). This policy explains what information is collected and how this information is used. As our technology evolves and laws change, we may update this notice and any supplemental privacy notices to reflect changes in our practices and applicable law. If we update this policy, we will post a notice of any material updates on our site and revise the “Last Updated” date above.
-
-### Links to Third Party Sites
-
-This notice does not apply to any third-party sites that may link to, or be accessible from, our sites. Your interactions with these sites are governed by the third parties’ applicable privacy notices, statements, or policies. We encourage you to read them.
 
 ### What data we collect from you
 
