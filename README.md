@@ -111,6 +111,11 @@ We need experienced professionals in the healthcare and/or biomedical arena to h
 
 Your team lead is Chris Lee and your slack channel is [#zerobase-medical](https://necsi-edu.slack.com/archives/C011C9V9DQF)
 
+#### Outreach Team
+Grow zerobase by reaching and connecting us with invididuals, organizations, political leads, and movements that will forward our mission of saving lives by creating new opportunities for zerobase.
+
+Your team lead is Bianca and your slack channel is [#zerobase-outreach](https://necsi-edu.slack.com/archives/C011KJJH1NJ)
+
 #### Product Team
 Product and product managers, Jira jedi, and anyone else who considers organization to be a strong-point - your expertise is needed here.
 
