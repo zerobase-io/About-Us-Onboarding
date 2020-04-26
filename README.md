@@ -71,7 +71,7 @@ First, fill out our [Volunteer Registration Form](https://airtable.com/shrLF5neO
 * [#zerobase-onboarding](https://necsi-edu.slack.com/archives/C012TDJ6PEC) - Onboarding information
 * [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ) - Our main volunteers channel
 
-## Joining a Team and Contributing
+## Join a Team and Contribute
 Zerobase exists across 13 time zones and development and we use a decentralized team of teams structure. The best way to bring your best is to join a team, let us know how you would like to contribute, and we will see how you can make an impact!
 
 Read our [Product Roadmap](https://github.com/zerobase-io/smart-tracing/wiki/Product-Roadmap) for up to date information of our current engineering focus - find out our biggest priority today, and what's coming next.
