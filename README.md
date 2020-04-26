@@ -87,7 +87,7 @@ Your team lead is David Harris, and your Slack channel is [#zerobase-backend](ht
 #### CRM Team
 Design, Create, Integrate, Automate, and Run the Customer Relationship Management system that runs our outreach, live deployments, and volunteer efforts.
 
-Your team lead is Ed Kraay, your Slack Channel is [#zerobase-crm](https://necsi-edu.slack.com/archives/C01219CJJHJ), and here is your (CRM Team Guide)[https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-crm.md]
+Your team lead is Ed Kraay, your Slack Channel is [#zerobase-crm](https://necsi-edu.slack.com/archives/C01219CJJHJ), and here is your [CRM Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-crm.md)
 
 #### Design Team
 Your slack channel is [#zerobase-design](https://necsi-edu.slack.com/archives/C010M0HCLSZ)
