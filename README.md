@@ -1,19 +1,17 @@
 ![Zerobase Logo](./imgs/ZerobaseLogo.png "Zerobase Logo")
 
-
 # Zerobase
 Welcome! Zerobase is a free, privacy-first contact tracing platform that empowers individuals and local officials to stop the spread of COVID-19.
 
-[Join us](https://tinyurl.com/zerobase-volunteer) in our fight to end COVID-19.
+[Join us](https://zerobase.io/volunteer) in our fight to end COVID-19.
 
-# About Us & Onboarding
+# About Zerobase
 All things relating to our organization, the Zerobase project and how you can get involved!
 
 ## Contact Tracing
 Contact tracing is the identification of likely disease-spreading interaction between individuals. It is a crucial part of modern pandemic response. If an individual is exposed to COVID-19, tracing allows us to identify any number of others who were in the same place, such as a grocery store, pharmacy, place of worship, or doctor’s office, at the same time as the infected person. Public health officials can then notify those people to stay home temporarily and/or get tested themselves, thus slowing the spread of the virus.
 
 To contain COVID-19, communities must engage in both effective testing and tracing. While tests are scarce, we can respond by using contact tracing as soon as possible. Zerobase maximizes the value of each test by leveraging that test not only to treat an individual, but to identify the hundreds of untested members of a community who are at risk of infection based on their proximity to an exposed individual.
-
 
 ## How Does Zerobase Work?
 
@@ -59,45 +57,63 @@ Fundamentally, location tracking is both ineffective and unnecessary. Putting pr
 #### Collaborations
 We fully expect that the eventual technical system that will be most effective for virtual contact tracing is a consortium solution, combining proximity, GPS, and touchpoint-based mechanisms (like ours). We have designed our system and models from the ground up to be able to quickly integrate with any other application that may provide helpful information. For example, we can easily ingest proximity events into our model by strengthening the affinity between nodes that were in the same place around the same time (per our touchpoint checkins) if we know that they were actually just a few meters apart via bluetooth. If you're working on another modality of contact tracing and want to team up to beat COVID-19, drop us a line at info@zerobase.io!
 
-## How can I help?
-Ready to jump in?
+# Volunteering
+We're so happy to have you! Where governments are unable or unwilling to adequately test people for CoV-SARS-2, we're here to bridge the gap by enabling even resource-poor communities to utilize advanced tracing techniques to contain infections.
 
-#### First, fill out our our volunteer form
-[Zerobase Volunteer Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSenbQaMHQTFyULEz7etYqM6X9sckrRwggbD5RMFqNpKT5AR4w/viewform)
+You know how every job you've applied to tells you that you'll make an immediate impact? We don't even need to tell you how your contributions will matter, the value proposition of spending even a few hours contributing to a platform that is saving lives now speaks for itself. An investment of a few hours of your time will be directly responsible for eliminating days or weeks of unnecessary human suffering. So let's get to it!
+
+### Registration
+
+#### First, fill out our volunteer registration form if you haven't already
+[Zerobase Volunteer Registration Form](https://airtable.com/shrLF5neOHKjsSkjD)
 
 #### Next, join our slack using this link
 [Join the Zerobase Slack](https://join.slack.com/t/necsi-edu/shared_invite/zt-d86ge6g0-sgLKgyhRpFBJq2VrnJOdhg)
 
-#### Join a team! These are some channels to get you started:
+#### Introduce yourself!
+Introduce yourself in [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ)
+
+#### Here our our main channels to get you started:
 * [#zerobase-general](https://necsi-edu.slack.com/archives/CV57RBU8H) - Our main channel
-* [#zerobase-backend](https://necsi-edu.slack.com/archives/CV82ELK26) - For backend developers
-* [#zerobase-deployments](https://necsi-edu.slack.com/archives/C010MA2D7PU) - For deploying in the real world
-* [#zerobase-frontend](https://necsi-edu.slack.com/archives/C010DL0BXKR) - For frontend developers, UX, and Medical
-* [#zerobase-infra](https://necsi-edu.slack.com/archives/CV9UKU1HR) - For infrastructure and DevSecOps
-* [#zerobase-product](https://necsi-edu.slack.com/archives/C0105T4K0F2) - Our main product channel
+* [#zerobase-onboarding](https://necsi-edu.slack.com/archives/C012TDJ6PEC) - Onboarding information
+* [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ) - Our main volunteers channel
 
-#### Check out our GitHub!
-[Zerobase Developer Onboarding Documentation](https://github.com/zerobase-io/About-Us-Onboarding)
-[Here's our quickstart guide for technical and nontechnical contributors. Join us!](./CONTRIBUTING.md)
+## Joining a Team and Contributing
+Zerobase exists across 13 time zones and development and we use a decentralized team of teams structure. Want to contribute? Join a team and let us know how you would like to contribute and we will see how you can best fit to make an impact!
 
-#### Product Development Process
-Adding/Changing features?
+Read our [Product Roadmap](https://github.com/zerobase-io/smart-tracing/wiki/Product-Roadmap) for up to date information of our current engineering focus - find out our biggest priority today, and what's coming next.
 
-1. Add a story to our product backlog here https://github.com/orgs/zerobase-io/projects/5
-2. Story->Backlog
-3. Backlog-> Prioritisation and grooming by PM
-4. Prioritsation-> Design with UX / UI / Product Designer 
-5. Design - > Dev
-6. Dev -> QA
+Join our All Hands Meeting on Zoom every Tuesday, Wednesday and Saturday at 3:00 PM EST. Find the link every day on [#zerobase-general](https://necsi-edu.slack.com/archives/CV57RBU8H).
 
+### Our Teams
 
+#### Backend and Database
+DBAs, Sys admins, CI/CD pros, NodeJS devs, Express experts, here's your home. Data scientists too!
+Your team lead is David Harris, and your Slack channel is [#zerobase-backend](https://necsi-edu.slack.com/archives/CV82ELK26)
 
-#### Any questions? Get stuck?
-Email us at [info@zerobase.io](mailto://info@zerobase.io) or ask in [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ)
+#### Deployments Team
+Validated learning experts, user research gurus, iterative feedback afficionadoes. These people see to it that Zerobase is successful and improving on the ground. They also manage our support systems and ensure that problems get solved immediately.
+Your team lead is Erik Sogn, your Slack channel is [#zerobase-deployments](https://necsi-edu.slack.com/archives/C010MA2D7PU), and here is your (Deployments Team Guide)[https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-deployments.md]
 
-Remember to join us at 4PM EDT for our daily worldwide All Hands call! Meet new friends, hear about our progress, become part of the team. Details on Slack.
+#### Frontend - Design, UI/UX, and Medical
+Web devs, mobile moguls, UI/UX experts, we especially need your help. We're so glad to have you!
+Your team lead is John Lo, and your Slack channel is [#zerobase-frontend](https://necsi-edu.slack.com/archives/C010DL0BXKR).
 
-#### Relevant Links
+#### Infrastructure and Operational Security
+DevOps, OpSec, K8s, and all the other fun shorthands - they live here!
+Your team lead is Jason Spriggs, and your Slack channel is [#zerobase-infra](https://necsi-edu.slack.com/archives/CV9UKU1HR).
+
+#### Product Team
+Product and product managers, Jira jedi, and anyone else who considers organization to be a strong-point - your expertise is needed here.
+Your team lead is Colm Byrne, your Slack channel is [#zerobase-product](https://necsi-edu.slack.com/archives/C0105T4K0F2), and here is your (Product Team Guide)[https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-product.md].
+
+#### Volunteer Coordination Team
+Your team lead is Erik Sogn, your Slack Channel is [#zerobase-volunteer-coordination](https://necsi-edu.slack.com/archives/G0104HE1JP4), and here is your [Volunteer Coordination Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-volunteer-coordination.md)
+
+# Any questions? Get stuck?
+Email us at [info@zerobase.io](mailto://info@zerobase.io), ask in [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ), or [Contact Us](https://airtable.com/shrnYjRudkIBlXzr9)
+
+# Links and Resources
+* [Zerobase Volunteer Homepage](https://zerobase.io/volunteer)
 * [Zerobase GitHub Organization](https://github.com/zerobase-io)
-* [Volunteer Registration Form](https://tinyurl.com/zerobase-volunteer)
-* [Contact Us](https://airtable.com/shrnYjRudkIBlXzr9) or email us at info@zerobase.io
+
