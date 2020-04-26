@@ -4,7 +4,7 @@
 Our mission is to build and deploy a QR based inclusive, private platform to be used as widely as possible.
 
 ### Roadmap
-See the roadmap on the wiko
+See the roadmap on the wiki
 
 ### Onboarding
 * Join GitHub and [our smart-tracing repo](https://github.com/zerobase-io/smart-tracing)
