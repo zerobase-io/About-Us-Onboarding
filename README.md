@@ -119,7 +119,7 @@ We need experienced professionals in the healthcare and/or biomedical arena to h
 Grow zerobase by reaching and connecting us with invididuals, organizations, political leads, and movements that will forward our mission of saving lives by creating new opportunities for zerobase. If you have experience in law, communication, policy, social media, marketing, writing, or can recommend someone who does, we'd love to have your help in tackling this pandemic.
 * Team lead: Bianca
 * Slack: [#zerobase-outreach](https://necsi-edu.slack.com/archives/C011KJJH1NJ)
-* [Onboarding Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-onboarding.md)
+* [Outreach Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-outreach.md)
 
 #### Product Team
 Product and product managers, Jira jedi, and anyone else who considers organization to be a strong-point - your expertise is needed here.
