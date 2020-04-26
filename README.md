@@ -62,7 +62,7 @@ We're so happy to have you! Where governments are unable or unwilling to adequat
 
 You know how every job you've applied to tells you that you'll make an immediate impact? We don't even need to tell you how your contributions will matter, the value proposition of spending even a few hours contributing to a platform that is saving lives now speaks for itself. An investment of a few hours of your time will be directly responsible for eliminating days or weeks of unnecessary human suffering. So let's get to it!
 
-### Registration
+### Register and Join our Slack
 
 First, fill out our [Volunteer Registration Form](https://airtable.com/shrLF5neOHKjsSkjD) if you haven't already, [Join the Zerobase Slack](https://join.slack.com/t/necsi-edu/shared_invite/zt-d86ge6g0-sgLKgyhRpFBJq2VrnJOdhg), and introduce yourself in [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ)
 
@@ -71,16 +71,14 @@ First, fill out our [Volunteer Registration Form](https://airtable.com/shrLF5neO
 * [#zerobase-onboarding](https://necsi-edu.slack.com/archives/C012TDJ6PEC) - Onboarding information
 * [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ) - Our main volunteers channel
 
-## Join a Team and Contribute
+## Get Involved
 Zerobase exists across 13 time zones and development and we use a decentralized team of teams structure. The best way to bring your best is to introduce yourself, join a team, partner up - and self start! Let us know how you would like to contribute, and we will support you in creating an impact!
 
-### Get Involved
+Read our [Zerobase Product Roadmap](https://github.com/zerobase-io/smart-tracing/wiki/Product-Roadmap) for up to date information of our current and focus - find out our biggest priority today, and what's coming next. If you want to understand why we are building what we are building today, start here.
 
-Read our [Zerobase Product Roadmap](https://github.com/zerobase-io/smart-tracing/wiki/Product-Roadmap) for up to date information of our current engineering focus - find out our biggest priority today, and what's coming next.
+Join our All Hands Meeting on Zoom every Tuesday, Wednesday and Saturday at 3:00 PM EST. Find the link every day on [#zerobase-general](https://necsi-edu.slack.com/archives/CV57RBU8H). Check team guides below for team specific zoom sessions.
 
-Join our All Hands Meeting on Zoom every Tuesday, Wednesday and Saturday at 3:00 PM EST. Find the link every day on [#zerobase-general](https://necsi-edu.slack.com/archives/CV57RBU8H).
-
-### Our Teams - Join as many as you choose!
+### Join a Team and contribute!
 
 #### Backend and Database Team
 DBAs, Sys admins, CI/CD pros, NodeJS devs, Express experts, here's your home. Data scientists too!
@@ -134,6 +132,11 @@ Ensure volutneers join our project, get to the right place, and bring their best
 * Team lead: Erik Sogn
 * Slack: [#zerobase-volunteer-coordination](https://necsi-edu.slack.com/archives/G0104HE1JP4)
 * [Volunteer Coordination Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-volunteer-coordination.md)
+
+#### Leadership Team
+Are you passionate for organizational leadership theory and putting it into practice? Is your home base 
+* Team lead: Aron Szanto
+* Slack: [#zerobase-volunteer-coordination](https://necsi-edu.slack.com/archives/G0104HE1JP4)
 
 # Any questions? Get stuck? Want to contribute and don't know where to start?
 Email us at [info@zerobase.io](mailto://info@zerobase.io), ask in [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ), or use our [Contact Us](https://airtable.com/shrnYjRudkIBlXzr9) form.
