@@ -74,6 +74,8 @@ First, fill out our [Volunteer Registration Form](https://airtable.com/shrLF5neO
 ## Get Involved
 Zerobase exists across 13 time zones and development and we use a decentralized team of teams structure. The best way to bring your best is to introduce yourself, join a team, partner up - and self start! Let us know how you would like to contribute, and we will support you in creating an impact!
 
+Read our [core values](https://docs.google.com/presentation/d/1yxBwUKQG7YsQSvSuSaVimaDOZuh-HupIbDe9i3-GV_w/edit)
+
 Read our [Zerobase Product Roadmap](https://github.com/zerobase-io/smart-tracing/wiki/Product-Roadmap) for up to date information of our current and focus - find out our biggest priority today, and what's coming next. If you want to understand why we are building what we are building today, start here.
 
 Join our All Hands Meeting on Zoom every Tuesday, Wednesday and Saturday at 3:00 PM EST. Find the link every day on [#zerobase-general](https://necsi-edu.slack.com/archives/CV57RBU8H). Check team guides below for team specific zoom sessions.
