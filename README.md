@@ -78,9 +78,7 @@ Read our [Product Roadmap](https://github.com/zerobase-io/smart-tracing/wiki/Pro
 
 Join our All Hands Meeting on Zoom every Tuesday, Wednesday and Saturday at 3:00 PM EST. Find the link every day on [#zerobase-general](https://necsi-edu.slack.com/archives/CV57RBU8H).
 
-### Our Teams
-
-#### Backend and Database
+#### Backend and Database Team
 DBAs, Sys admins, CI/CD pros, NodeJS devs, Express experts, here's your home. Data scientists too!
 
 Your team lead is David Harris, and your Slack channel is [#zerobase-backend](https://necsi-edu.slack.com/archives/CV82ELK26)
@@ -98,12 +96,12 @@ Validated learning experts, user research gurus, iterative feedback afficionadoe
 
 Your team lead is Erik Sogn, your Slack channel is [#zerobase-deployments](https://necsi-edu.slack.com/archives/C010MA2D7PU), and here is your [Deployments Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-deployments.md)
 
-#### Frontend - Design, UI/UX, and Medical
+#### Frontend Team - Design, UI/UX, and Medical
 Web devs, mobile moguls, UI/UX experts, we especially need your help. We're so glad to have you!
 
 Your team lead is John Lo, and your Slack channel is [#zerobase-frontend](https://necsi-edu.slack.com/archives/C010DL0BXKR).
 
-#### Infrastructure and Operational Security
+#### Infrastructure and Operational Security Team
 DevOps, OpSec, K8s, and all the other fun shorthands - they live here!
 
 Your team lead is Jason Spriggs, and your Slack channel is [#zerobase-infra](https://necsi-edu.slack.com/archives/CV9UKU1HR).
