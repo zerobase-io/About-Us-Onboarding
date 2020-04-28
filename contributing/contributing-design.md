@@ -1,7 +1,7 @@
 # Design Team
 
 ### Our Mission
-Our mission is to oversee and run the design process, interaction and visual design, service design, and align with content strategy and development teams.
+Our mission is to oversee and run the design process, interaction and visual design, service design, and align with content strategy and development teams. This is an ongoing and evolving mission!
 
 ### Roadmap
 We are building a sustainable, scalable, and equitable design process to improve the usability of Zerobase, improve our internal communication, standardize the design system, and better match capacity of our volunteers to the work that needs to be done, while reducing single points of failure.
