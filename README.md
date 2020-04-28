@@ -74,7 +74,7 @@ First, fill out our [Volunteer Registration Form](https://airtable.com/shrLF5neO
 ## Get Involved
 Zerobase exists across 13 time zones and development and we use a decentralized team of teams structure. The best way to bring your best is to introduce yourself, join a team, partner up - and self start! Let us know how you would like to contribute, and we will support you in creating an impact!
 
-Read our [core values](https://docs.google.com/presentation/d/1yxBwUKQG7YsQSvSuSaVimaDOZuh-HupIbDe9i3-GV_w/edit)
+Read our [core values](https://docs.google.com/presentation/d/1yxBwUKQG7YsQSvSuSaVimaDOZuh-HupIbDe9i3-GV_w/edit) to learn who we are and why we are building zerobase.
 
 Read our [Zerobase Product Roadmap](https://github.com/zerobase-io/smart-tracing/wiki/Product-Roadmap) for up to date information of our current and focus - find out our biggest priority today, and what's coming next. If you want to understand why we are building what we are building today, start here.
 
@@ -108,12 +108,12 @@ Validated learning experts, user research gurus, iterative feedback afficionadoe
 #### Frontend Team - Design, UI/UX, and Medical
 Web devs, mobile moguls, UI/UX experts, we especially need your help. We're so glad to have you!
 * Team lead: John Lo
-* Slack: [#zerobase-frontend](https://necsi-edu.slack.com/archives/C010DL0BXKR).
+* Slack: [#zerobase-frontend](https://necsi-edu.slack.com/archives/C010DL0BXKR)
 
 #### Infrastructure and Operational Security Team
 DevOps, OpSec, K8s, and all the other fun shorthands - they live here!
 * Team lead: Jason Spriggs
-* Slack: [#zerobase-infra](https://necsi-edu.slack.com/archives/CV9UKU1HR).
+* Slack: [#zerobase-infra](https://necsi-edu.slack.com/archives/CV9UKU1HR)
 
 #### Medical Team
 We need experienced professionals in the healthcare and/or biomedical arena to help us bridge the gap between cloud technology and boots on the ground. Save lives by bringing about more effective rapid case identification and containment. Whether your expertise is running a gel or running an ICU, your knowledge is needed to help bring this system online quickly and to ensure best clinical utility.
