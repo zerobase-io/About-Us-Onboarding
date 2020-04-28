@@ -94,7 +94,10 @@ Design, Create, Integrate, Automate, and Run the Customer Relationship Managemen
 * [CRM Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-crm.md)
 
 #### Design Team
+Design Zerobase! Oversee and run the design process from website to app, all interaction and visual design, service design, and align with content strategy and development teams.
+* Team lead: Dan Turner
 * Slack: [#zerobase-design](https://necsi-edu.slack.com/archives/C010M0HCLSZ)
+* [Design Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-design.md)
 
 #### Deployments Team
 Validated learning experts, user research gurus, iterative feedback afficionadoes. These people see to it that Zerobase is successful and improving on the ground. They also manage our support systems and ensure that problems get solved immediately.
