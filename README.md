@@ -78,7 +78,7 @@ Read our [core values](https://docs.google.com/presentation/d/1yxBwUKQG7YsQSvSuS
 
 Read our [Zerobase Product Roadmap](https://github.com/zerobase-io/smart-tracing/wiki/Product-Roadmap) for up to date information of our current and focus - find out our biggest priority today, and what's coming next. If you want to understand why we are building what we are building today, start here.
 
-Join our All Hands Meeting on Zoom every Tuesday, Wednesday and Saturday at 3:00 PM EST. Find the link every day on [#zerobase-general](https://necsi-edu.slack.com/archives/CV57RBU8H). Check team guides below for team specific zoom sessions.
+Join our All Hands Meeting on Zoom every Tuesday, Thursday, and Saturday at 3:00 PM ET. Find the link every day on [#zerobase-general](https://necsi-edu.slack.com/archives/CV57RBU8H). Check team guides below for team specific zoom sessions.
 
 ### Join a Team and contribute!
 
