@@ -8,7 +8,7 @@ We are building a sustainable, scalable, and equitable design process to improve
 
 ### Onboarding
 - Join the [#zerobase-design](https://necsi-edu.slack.com/archives/C010M0HCLSZ) channel
-- Join our [Trello](https://trello.com/b/tRqTiyZC/design) to see work in progress
+- Join our Design Team [Trello](https://trello.com/invite/b/fzH9yBqw/0df09c45fae07ec53ce6466def705a13/design-team) to see work in progress
 - Introduce yourself to Colm Byrne and Dan Turner on Slack
 - Please fill in your details in the [Design Volunteers Airtable](https://airtable.com/invite/l?inviteId=invtx1JjHLdLKlOU2&inviteToken=f5188616fb2d7800bfba63495008123887e8f5b97c6d45b3667f280bd84febd7)
 - Review the [Product Roadmap](https://github.com/zerobase-io/smart-tracing/wiki/Product-Roadmap) and ask Colm if you have questions
@@ -42,12 +42,13 @@ This is all a work in progress — please think about what constructive feedback
 We are looking for designers who will be able to recruit for and run remote usability tests, create reports based on the results, user researchers who have innovative ideas about how to learn about our potential users in real life, dashboard mavens, design system masters, and service designers who can help think about how Zerobase can work across channels and touchpoints as our mission develops.
 
 ## Resources
-- [Trello](https://trello.com/b/tRqTiyZC/design)
+- [Trello](https://trello.com/invite/b/fzH9yBqw/0df09c45fae07ec53ce6466def705a13/design-team)
 - Airtable
 - [Zeplin](https://zpl.io/brZw9O1)
-- IBM Carbon Design System (customizing, but documentation [here](https://www.carbondesignsystem.com/))
+- IBM Carbon Design System (customizing, but documentation [here](https://www.carbondesignsystem.com/)) and more info plus the Sketch file and how to import into Figma here (https://trello.com/c/IjNX8zZT)
 - Loop11 for remote, unmoderated usability testing
 - [Airtable of results from above](https://airtable.com/invite/l?inviteId=invWGixR872We8jvo&inviteToken=0b7841e9eaf29c0920963b1ec7a587ec93c102c4fb0314f5edbdb56d8f8d1fef)
 - Daily asynchronous standup thread in #zerobase-design
 - Maybe [Undraw](https://undraw.co/illustrations) for illustrations?
+- Find designers in the [Design Volunteers Airtable](https://airtable.com/invite/l?inviteId=invtx1JjHLdLKlOU2&inviteToken=f5188616fb2d7800bfba63495008123887e8f5b97c6d45b3667f280bd84febd7)
 
