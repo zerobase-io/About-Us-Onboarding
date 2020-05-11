@@ -21,15 +21,17 @@ We are building a sustainable, scalable, and equitable design process to improve
 - Also please familiarize yourself with Zeplin and potentially Abstract as we grow (we have a free license for the latter; any contacts at the former would be appreciated); the goal is not to mandate anyone has to work in a specific design tool
 - The goal is that nobody, from design to development, should have to reinvent what a button, every button state, or menu item looks like or works like
 
-### Workflow for Screen Design
+### Workflow
 - Tasks and goals are derived from the Project Roadmap and broken into tasks on the Design Trello (UPDATE: Given the merging of Product and Design, this is in flux)
 - Consult with Dan if you see a task you can tackle
 - If you take it on, make sure you are assigned to the task in the Design Trello
-- If a new task, create a design file, clearly name it, and sync it to the appropriate Collection in Zeplin (ToDo: create a naming system for files)
+- If a new task, create a design file, clearly name it, and sync it to the appropriate Collection in Zeplin (ToDo: create a naming system for files). NOTE: Every Trello card should include a plain-language description and a link to supporting documents, brainstorming documents, research, and Zeplin (if relevant)
 - If an iteration on an existing design, copy the existing design file from Zeplin
 - Follow Zeplin’s [Help Guide](https://support.zeplin.io/en/) if you aren’t familiar with the above
 - [If the design system is in place: start with our customized UI Shell template and use our customized library when working in your design tool]
 - Post to the Design Trello and to #zerobase-design when you feel you have reached a point for feedback
+- Usability Testing needs an owner
+- Once a design is reviewed and finalized, handoff to Development will be handled via Zelpin
 
 The idea is that you’ll be able to work as freely and creatively as you want, within a system that frees you from having to recreate or copy detail work.
 
