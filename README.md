@@ -127,10 +127,7 @@ Grow zerobase by reaching and connecting us with invididuals, organizations, pol
 * [Outreach Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-outreach.md)
 
 #### Product Team
-Product and product managers, Jira jedi, and anyone else who considers organization to be a strong-point - your expertise is needed here.
-* Team lead: Colm Byrne
-* Slack: [#zerobase-product](https://necsi-edu.slack.com/archives/C0105T4K0F2)
-* [Product Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-product.md)
+This team is being rolled into the Design Team.
 
 #### Volunteer Coordination Team
 Ensure volutneers join our project, get to the right place, and bring their best! Do you like to meet new people and set them up to win?
