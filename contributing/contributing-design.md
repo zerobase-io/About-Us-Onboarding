@@ -1,7 +1,7 @@
 # Design Team
 
 ### Our Mission
-Our mission is to oversee and run the design process, interaction and visual design, service design, and align with content strategy and development teams. This is an ongoing and evolving mission!
+Our mission is to oversee and run the design process, interaction and visual design, service design, and align with content strategy and development teams. This is an ongoing and evolving mission! (UPDATE: The Product and Design team are merging with Dan as Lead.)
 
 ### Roadmap
 We are building a sustainable, scalable, and equitable design process to improve the usability of Zerobase, improve our internal communication, standardize the design system, and better match capacity of our volunteers to the work that needs to be done, while reducing single points of failure.
@@ -9,21 +9,21 @@ We are building a sustainable, scalable, and equitable design process to improve
 ### Onboarding
 - Join the [#zerobase-design](https://necsi-edu.slack.com/archives/C010M0HCLSZ) channel
 - Join our Design Team [Trello](https://trello.com/invite/b/fzH9yBqw/0df09c45fae07ec53ce6466def705a13/design-team) to see work in progress
-- Introduce yourself to Colm Byrne and Dan Turner on Slack
+- Introduce yourself to Dan Turner on Slack (DMs open!)
 - Please fill in your details in the [Design Volunteers Airtable](https://airtable.com/invite/l?inviteId=invtx1JjHLdLKlOU2&inviteToken=f5188616fb2d7800bfba63495008123887e8f5b97c6d45b3667f280bd84febd7)
-- Review the [Product Roadmap](https://github.com/zerobase-io/smart-tracing/wiki/Product-Roadmap) and ask Colm if you have questions
+- Review the [Product Roadmap](https://github.com/zerobase-io/smart-tracing/wiki/Product-Roadmap) and ask questions
 
 ## Contributing
 
 ### Standardizing Design
 - Our goal is to move towards a unified workflow with a centralized repository for collaborative design with feedback, shared resources, and consistent design
 - We’d love to have people share their expertise on design systems and help us best use the [IBM Carbon Design System](https://www.carbondesignsystem.com/), and could especially use people who can customize the Gray 10 theme to match Zerobase’s [branding standards](https://docs.google.com/document/d/19h08-mGDmZfj0E_XjlCtUZI_Hi67uIWDbkSxPz7ghRI/edit) (please familiarize yourself with things like case and verb tense and don’t hesitate to reach out with questions)
-- Also please familiarize yourself with Zeplin and potentially Abstract as we grow (we have a free license for the latter; any contacts at the former would be appreciated)
+- Also please familiarize yourself with Zeplin and potentially Abstract as we grow (we have a free license for the latter; any contacts at the former would be appreciated); the goal is not to mandate anyone has to work in a specific design tool
 - The goal is that nobody, from design to development, should have to reinvent what a button, every button state, or menu item looks like or works like
 
 ### Workflow for Screen Design
-- To be worked out with Colm: tasks and goals are derived from the Project Roadmap and broken into tasks on the Design Trello
-- Consult with Colm or Dan if you see a task you can tackle
+- Tasks and goals are derived from the Project Roadmap and broken into tasks on the Design Trello (UPDATE: Given the merging of Product and Design, this is in flux)
+- Consult with Dan if you see a task you can tackle
 - If you take it on, make sure you are assigned to the task in the Design Trello
 - If a new task, create a design file, clearly name it, and sync it to the appropriate Collection in Zeplin (ToDo: create a naming system for files)
 - If an iteration on an existing design, copy the existing design file from Zeplin
