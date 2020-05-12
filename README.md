@@ -76,7 +76,7 @@ First, fill out our [Volunteer Registration Form](https://airtable.com/shrLF5neO
 * [Facebook](https://www.facebook.com/zerobaseio/)
 * [LinkedIn](https://www.linkedin.com/company/zerobase/)
 * [Instagram](https://www.instagram.com/zerobase.io/)
-Learn more about how to support our social media channels here (linked page coming soon)
+* Learn more about how to support our social media channels here (linked page coming soon)
 
 
 ## Get Involved
