@@ -71,6 +71,14 @@ First, fill out our [Volunteer Registration Form](https://airtable.com/shrLF5neO
 * [#zerobase-onboarding](https://necsi-edu.slack.com/archives/C012TDJ6PEC) - Onboarding information
 * [#zerobase-volunteers](https://necsi-edu.slack.com/archives/C010FSAKGPQ) - Our main volunteers channel
 
+### Follow and Support our Social Media
+* [Twitter](https://twitter.com/Zerobaseio)
+* [Facebook](https://www.facebook.com/zerobaseio/)
+* [LinkedIn](https://www.linkedin.com/company/zerobase/)
+* [Instagram](https://www.instagram.com/zerobase.io/)
+Learn more about how to support our social media channels here (linked page coming soon)
+
+
 ## Get Involved
 Zerobase exists across 13 time zones and development and we use a decentralized team of teams structure. The best way to bring your best is to introduce yourself, join a team, partner up - and self start! Let us know how you would like to contribute, and we will support you in creating an impact!
 
