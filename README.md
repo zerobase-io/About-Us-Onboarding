@@ -106,6 +106,7 @@ Design Zerobase! Oversee and run the design process from website to app, all int
 * Team lead: Dan Turner
 * Slack: [#zerobase-design](https://necsi-edu.slack.com/archives/C010M0HCLSZ)
 * [Design Team Guide](https://github.com/zerobase-io/About-Us-Onboarding/blob/master/contributing/contributing-design.md)
+* Design Team Trello (https://trello.com/invite/b/fzH9yBqw/0df09c45fae07ec53ce6466def705a13/design-team)
 
 #### Deployments Team
 Validated learning experts, user research gurus, iterative feedback afficionadoes. These people see to it that Zerobase is successful and improving on the ground. They also manage our support systems and ensure that problems get solved immediately.
